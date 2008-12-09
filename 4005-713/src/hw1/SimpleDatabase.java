@@ -13,7 +13,7 @@ public class SimpleDatabase {
 	protected File fileBase;
 	protected List<ArrayList<Object>> tupleBase;
 	
-	public static enum Command { ADD, SHOW, DELETE };
+	public static enum Command { ADD, SHOW, DELETE, INVALID, QUIT };
 	
 	/**
 	 * 	Default constructor.
@@ -114,7 +114,7 @@ public class SimpleDatabase {
 		ArrayList<Object> listTuple = new ArrayList<Object>();
 		
 		for( String t : pStringTuple ) {
-			listTuple.add( t );
+			listTuple.add( t.replaceAll( "^\\s+|\\s+$", "") );
 		}
 		
 		tupleBase.add( listTuple );
@@ -148,6 +148,20 @@ public class SimpleDatabase {
 			System.out.print( element.toString() + " " );
 		}
 		System.out.println();
+	}
+	
+	/**
+	 * Displays the specified tuple.
+	 * @param pTuple Tuple to be displayed.
+	 */
+	public void displayTuple( String[] pTuple ) {
+		for( int i = 0; i < pTuple.length; ++i ) {
+			System.out.print( pTuple[ i ] );
+			if( i + 1 < pTuple.length ) {
+				System.out.print( " " );
+			}
+		}
+		//System.out.println();
 	}
 	
 	/**
@@ -219,16 +233,63 @@ public class SimpleDatabase {
 	}
 	
 	public static void main( String... args )  {
+		System.out.println("== Welcome to Simple Database! ==");
+		System.out.println("command: add, show, delete, quit");
+
 		SimpleDatabase db = new SimpleDatabase();
-		db.loadTuplesFromFile( new File( "C:\\Java\\workspace\\4005-713\\tuples.txt" ) );
-		db.displayTuples( ".*a.*" );
-		System.out.println();
-		db.displayTuples();
-		db.deleteTuple( ".*a.*" );
 		
-		System.out.println();
-		db.displayTuples();
+		if( args.length == 1 ) {
+			String fileName = args[ 0 ];
+			System.out.printf( "loading db info from: '%s'\n", fileName );
+			db.loadTuplesFromFile( new File( fileName ) );
+		}
+
+				
+		Scanner scanner = new Scanner( System.in );
 		
-		db.saveTuplesToFile( new File( "tuples_output.txt" ) );
+		Command c = SimpleDatabase.Command.INVALID;
+		String description = "";
+		while( c != SimpleDatabase.Command.QUIT ) {
+			System.out.print("> ");
+			
+			if( scanner.hasNext() ) { 
+				try {
+				c = Command.valueOf( 
+						SimpleDatabase.Command.class, 
+						scanner.next().toUpperCase() );
+				}
+				catch( Exception e ) {
+					c = SimpleDatabase.Command.INVALID;
+				}
+			}
+			
+			switch( c ) {
+			
+				case ADD :
+					String[] tuple = scanner.nextLine().split( " " );
+					//for( String s : tuple ) {
+					//	System.out.println( s );
+					//}
+					System.out.print( "Adding tuple: '" );
+					db.displayTuple( tuple );
+					System.out.println( "'");
+					db.addTuple( tuple );
+					break;
+				case DELETE :
+					description = scanner.next();
+					db.deleteTuple( description );
+					break;
+				case QUIT :
+					db.saveTuplesToFile();
+					System.exit( 0 );
+					break;
+				case SHOW :
+					description = scanner.next();
+					db.displayTuples( description );
+					break;
+				case INVALID :	
+					System.err.println( "Please enter a command: 'ADD tuple, SHOW description, DELETE description, or QUIT' ");
+			}
+		}
 	}
 }
