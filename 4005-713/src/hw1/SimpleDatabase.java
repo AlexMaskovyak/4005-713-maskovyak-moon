@@ -3,11 +3,15 @@ package hw1;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+/**
+ * 
+ * @author Alex Maskovyak & Young Suk Moon
+ *
+ */
 public class SimpleDatabase {
 
 	protected File fileBase;
