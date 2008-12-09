@@ -115,7 +115,9 @@ public class SimpleDatabase {
 		ArrayList<Object> listTuple = new ArrayList<Object>();
 		
 		for( String t : pStringTuple ) {
-			listTuple.add( t.replaceAll( "^\\s+|\\s+$", "") );
+			if( t.length() > 0 ) { 
+				listTuple.add( t.replaceAll( "^\\s+|\\s+$", "") ); 
+			}
 		}
 		
 		tupleBase.add( listTuple );
@@ -145,10 +147,8 @@ public class SimpleDatabase {
 	 * @param tuple Tuple to be displayed.
 	 */
 	public void displayTuple( ArrayList<Object> tuple ) {
-		for( Object element : tuple ) {
-			System.out.print( element.toString() + " " );
-		}
-		System.out.println();
+		String[] tupleString = new String[ tuple.size() ];
+		displayTuple( tuple.toArray( tupleString ) );
 	}
 	
 	/**
@@ -157,9 +157,11 @@ public class SimpleDatabase {
 	 */
 	public void displayTuple( String[] pTuple ) {
 		for( int i = 0; i < pTuple.length; ++i ) {
-			System.out.print( pTuple[ i ] );
-			if( i + 1 < pTuple.length ) {
-				System.out.print( " " );
+			if( pTuple[ i ].length() > 0 ) {
+				System.out.print( pTuple[ i ] );
+				if( i + 1 < pTuple.length ) {
+					System.out.print( " " );
+				}
 			}
 		}
 		//System.out.println();
@@ -267,24 +269,35 @@ public class SimpleDatabase {
 			switch( c ) {
 			
 				case ADD :
-					String[] tuple = scanner.nextLine().split( " " );
-					//for( String s : tuple ) {
-					//	System.out.println( s );
-					//}
-					System.out.println( "==============" );
-					System.out.print( "Adding tuple: '" );
-					db.displayTuple( tuple );
-					System.out.println( "'");
-					System.out.println( "==============" );
-					db.addTuple( tuple );
+					String tupleList = scanner.nextLine();
+					if( tupleList != null ) {
+						String[] tuple = tupleList.split( " " );
+						//for( String s : tuple ) {
+						//	System.out.println( s );
+						//}
+						System.out.println( "==============" );
+						System.out.print( "Adding tuple: '" );
+						db.displayTuple( tuple );
+						System.out.println( "'");
+						System.out.println( "==============" );
+						db.addTuple( tuple );
+					}
+					else {
+						System.err.println( "The 'add' command requires a tuple." );
+					}
 					break;
 				case DELETE :
 					description = scanner.next();
-					System.out.println( "==============" );
-					System.out.println( "Deleting tuples..." );
-					db.displayTuples( db.getTuples( description ) );
-					System.out.println( "==============" );
-					db.deleteTuple( description );
+					if( description != null ) {
+						System.out.println( "==============" );
+						System.out.println( "Deleting tuples..." );
+						db.displayTuples( db.getTuples( description ) );
+						System.out.println( "==============" );
+						db.deleteTuple( description );
+					}
+					else {
+						System.err.println( "The 'delete' command requires a description for tuple selection." );
+					}
 					break;
 				case QUIT :
 					System.out.println( "==============" );
@@ -303,10 +316,15 @@ public class SimpleDatabase {
 					break;
 				case SHOW :
 					description = scanner.next();
-					System.out.println( "==============" );
-					System.out.println( "Displaying tuples..." );
-					db.displayTuples( description );
-					System.out.println( "==============" );
+					if( description != null ) {
+						System.out.println( "==============" );
+						System.out.println( "Displaying tuples..." );
+						db.displayTuples( description );
+						System.out.println( "==============" );
+					}
+					else {
+						System.err.println( "The 'show' command requires a description for tuple selection." );
+					}
 					break;
 				case INVALID :	
 					System.err.println( "Please enter a command: 'ADD tuple, SHOW description, DELETE description, or QUIT' ");
