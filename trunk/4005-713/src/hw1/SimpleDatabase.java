@@ -87,6 +87,7 @@ public class SimpleDatabase {
 			return;
 		}
 		
+		
 		try {
 			BufferedWriter out = new BufferedWriter( new FileWriter( pFile ) );
 			for( ArrayList<Object> tuple : tupleBase ) {
@@ -97,9 +98,9 @@ public class SimpleDatabase {
 				out.write( "\n" );
 			}
 			out.close();
-		} catch (IOException e) {
+		} catch (Exception e) {
 			// TODO Auto-generated catch block
-			e.printStackTrace();
+			System.err.println( "Unable to save to file: " + e.getMessage() );
 		}
 	}
 	
@@ -270,22 +271,42 @@ public class SimpleDatabase {
 					//for( String s : tuple ) {
 					//	System.out.println( s );
 					//}
+					System.out.println( "==============" );
 					System.out.print( "Adding tuple: '" );
 					db.displayTuple( tuple );
 					System.out.println( "'");
+					System.out.println( "==============" );
 					db.addTuple( tuple );
 					break;
 				case DELETE :
 					description = scanner.next();
+					System.out.println( "==============" );
+					System.out.println( "Deleting tuples..." );
+					db.displayTuples( db.getTuples( description ) );
+					System.out.println( "==============" );
 					db.deleteTuple( description );
 					break;
 				case QUIT :
-					db.saveTuplesToFile();
+					System.out.println( "==============" );
+					System.out.println( "Quiting program..." );
+
+					if( scanner.hasNext() ) {
+						String filename = scanner.next();
+						System.out.println( "Saving db to " + filename );
+						db.saveTuplesToFile( new File( filename ) );
+					}
+					else {
+						db.saveTuplesToFile();
+					}
+					System.out.println( "==============" );
 					System.exit( 0 );
 					break;
 				case SHOW :
 					description = scanner.next();
+					System.out.println( "==============" );
+					System.out.println( "Displaying tuples..." );
 					db.displayTuples( description );
+					System.out.println( "==============" );
 					break;
 				case INVALID :	
 					System.err.println( "Please enter a command: 'ADD tuple, SHOW description, DELETE description, or QUIT' ");
