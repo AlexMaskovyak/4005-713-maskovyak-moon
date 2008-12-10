@@ -1,16 +1,33 @@
 ==============================================================================
 Assignment: HW1 ` SimpleDatabase
 Authors: Alex Maskovyak & Young Suk Moon
-JDK: 1.6
 ==============================================================================
 
 
+=========================================
+== 1. Structure of the Archive ==
+=========================================
+./readme 				> this file
+./SimpleDatabase.jar 			> java archive executable
+
+./SimpleDatabase.jar/META-INF/		> jar meta information
+./SimpleDatabase.jar/hw1/		> source and binary code
+
 
 ==========================================
-== 1.  Executing the Program ==
+== 2. Resources Used for Development ==
 ==========================================
-This program is JDK 1.6 compliant.  It was tested on the Windows XP SP2 OS.
+OS:		Windows XP SP2
+JDK:		JDK version 1.6
+IDE: 		Eclipse version 3.4.1
+SVN Plugin: 	Subversive version 0.7.0
+SVN repository:	https://4005-713-maskovyak-moon.googlecode.com/svn/trunk/
+Our website:	http://code.google.com/p/4005-713-maskovyak-moon/
 
+
+==========================================
+== 3.  Executing the Program ==
+==========================================
 java -jar SimpleDatabase {path to database file}*
 
 The path to a database file is an optional parameter.  If this parameter is 
@@ -19,12 +36,12 @@ active memory.
 
 
 =======================================
-== 2.  Commands ==
+== 4.  Commands ==
 =======================================
 There are 4 commands accepted by the program:
 
 =======================================
-== 2.1 add command ==
+== 4.1 add command ==
 =======================================
 add (element_1, element_2, element_3..., element_n)
 
@@ -33,7 +50,7 @@ database.
 
 
 =======================================
-== 2.2 show command ==
+== 4.2 show command ==
 =======================================
 show {description}
 
@@ -44,7 +61,7 @@ should not be quoted unless the quotes are a part of the regular expression.
 
 
 =======================================
-== 2.3 delete description* ==
+== 4.3 delete description* ==
 =======================================
 delete {description}
 
@@ -55,7 +72,7 @@ should not be quoted unless the quotes are a part of the regular expression.
 
 
 =======================================
-== 2.4 quit command ==
+== 4.4 quit command ==
 =======================================
 quit {filename}*
 
