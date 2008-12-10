@@ -28,7 +28,7 @@ Our website:	http://code.google.com/p/4005-713-maskovyak-moon/
 ==========================================
 == 3.  Executing the Program ==
 ==========================================
-java -jar SimpleDatabase {path to database file}*
+java -jar SimpleDatabase.jar {path to database file}*
 
 The path to a database file is an optional parameter.  If this parameter is 
 provided then the database will load the tuples stored in the file into 
