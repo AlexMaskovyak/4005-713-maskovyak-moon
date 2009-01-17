@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="opml2html.xsl" type="text/xsl"?><opml version="1.0">
+  <head>
+    <title>tmp</title>
+    <expansionState></expansionState>
+  </head>
+  <body>
+    <outline text="A">
+      <outline text="Abelson, Harold" author="Harold Abelson" title="Struktur und Interpretation von Computerprogrammen. Eine Informatik-Einführung" publisher="Springer Verlag" isbn="3540520430" year="1991"/>
+      <outline text="Abrahams, Paul W." author="Paul W. Abrahams" title="Tex for the Impatient" publisher="Addison-Wesley Pub Co" isbn="0201513757" year="2000"/>
+      <outline text="Abrams, Brad" author="Brad Abrams" title=".NET Framework Standard Library Annotated Reference, Volume 1: Base Class Library and Extended Numerics Library, 1/e" publisher="Addison-Wesley Pub Co" isbn="0321154894" year="2004"/>
+      <outline text="Adams, Joel" author="Joel Adams" title="Java: An Introduction to Computing" publisher="Prentice Hall" isbn="0130142514" year="2000"/>
+      <outline text="Adams, Philip M." author="Philip M. Adams" title="Writing DOS Device Drivers in C" publisher="Prentice Hall Computer Books" isbn="0139708642" year="1990"/>
+      <outline text="Adams, Phillip M." author="Phillip M. Adams" title="Treiberprogramme in C unter DOS" publisher="Hanser Fachbuchverlag" isbn="3446163913"/>
+      <outline text="Adamson, Chris" author="Chris Adamson" title="Quicktime for Java" publisher="O'Reilly &amp; Associates" isbn="0596008228" year="2005"/>
+      <outline text="Adobe Systems" author="Adobe Systems" title="PostScript(R) Language Reference Manual (2nd Edition)" publisher="Addison-Wesley Pub Co" isbn="0201181274" year="1990"/>
+      <outline text="Adobe Systems" author="Adobe Systems" title="PostScript(R) Language Tutorial and Cookbook" publisher="Addison-Wesley Pub Co" isbn="0201101793" year="1985"/>
+      <outline text="Adobe Systems Inc" author="Adobe Systems Inc" title="Programming the Display Postscript System With Nextstep" publisher="Addison Wesley Publishing Company" isbn="0201581353" year="1991"/>
+      <outline text="Adobe Systems Inc." author="Adobe Systems Inc." title="PostScript(R) Language Program Design" publisher="Addison-Wesley Pub Co" isbn="0201143968" year="1988"/>
+      <outline text="Aho, Al" author="Al Aho et al." title="Compilers -- Principles, Techniques, and Tools (2nd ed)" publisher="Addison-Wesley" isbn="0321486811" year="2007"/>
+      <outline text="Aho, Alfred V." author="Alfred V. Aho" title="Foundations of Computer Science" publisher="W.H. Freeman &amp; Company" isbn="0716782332" year="1992"/>
+      <outline text="Aho, Alfred V." author="Alfred V. Aho" title="The AWK Programming Language" publisher="Addison-Wesley Pub Co" isbn="020107981X" year="1988"/>
+      <outline text="Albahari, Ben" author="Ben Albahari" title="C# Essentials (2nd Edition)" publisher="O'Reilly &amp; Associates" isbn="0596003153" year="2002"/>
+      <outline text="Andleigh, Prabhat K." author="Prabhat K. Andleigh" title="Unix System Architecture" publisher="Prentice Hall Trade" isbn="0139498435" year="1989"/>
+      <outline text="ANSI" author="ANSI" title="Programming Language C" publisher="ANSI" year="2003"/>
+      <outline text="Apostol" author="Apostol et al." title="Selected Papers on Calculus" publisher="MAA" year="1969"/>
+      <outline text="Appel, Andrew W." author="Andrew W. Appel" title="Modern Compiler Implementation in C: Basic Techniques" publisher="Cambridge University Press" isbn="0521586534" year="1997"/>
+      <outline text="Appel, Andrew W." author="Andrew W. Appel" title="Modern Compiler Implementation in Java" publisher="Cambridge University Press" isbn="052182060X" year="2002"/>
+      <outline text="Appel, Andrew W." author="Andrew W. Appel" title="Modern Compiler Implementation in ML: Basic Techniques" publisher="Cambridge University Press" isbn="0521587751" year="1997"/>
+      <outline text="Appleman, Daniel" author="Daniel Appleman" title="Dan Appleman's Developing Activex Components With Visual Basic 5.0: A Guide to the Perplexed" publisher="Ziff Davis Pr" isbn="1562765108"/>
+      <outline text="Arnold, Ken" author="Ken Arnold" title="The Java Programming Language" publisher="Addison-Wesley Pub Co" isbn="0201310066" year="1997"/>
+      <outline text="AT&amp;T" author="AT&amp;T" title="Programmer's Manual (Unix Programmer's Series Volume 1)" publisher="International Thomson Publishing" isbn="0030475325" year="1990"/>
+      <outline text="AT&amp;T" author="AT&amp;T" title="Unix System Readings and Applications" publisher="Prentice Hall" isbn="0139398457" year="1986"/>
+      <outline text="AT&amp;T" author="AT&amp;T" title="Unix System Readings and Applications" publisher="Prentice Hall" isbn="0139385320" year="1986"/>
+    </outline>
+    <outline text="B">
+      <outline text="Bach, Fred" author="Fred Bach" title="UNIX Handbuch zur Programmentwicklung" publisher="Hanser Fachbuchverlag" isbn="3446151036"/>
+      <outline text="Bach, Maurice J." author="Maurice J. Bach" title="Design of the UNIX Operating System" publisher="Prentice Hall PTR" isbn="0132017997" year="1986"/>
+      <outline text="Bach, Maurice J." author="Maurice J. Bach" title="UNIX" publisher="Hanser Fachbuch" isbn="3446156933"/>
+      <outline text="Bacon, Jean" author="Jean Bacon, Tim Harris" title="Operating Systems" publisher="Pearson Addison Wesley" isbn="0321117891" year="2003"/>
+      <outline text="Bagnall, Brian" author="Brian Bagnall" title="Core LEGO MINDSTORMS Programming: Unleash the Power of the Java Platform" publisher="Prentice Hall PTR" isbn="0130093645" year="2002"/>
+      <outline text="Bal, H.E." author="H.E. Bal" title="Programming Distributed Systems" publisher="Prentice Hall" isbn="0137220839" year="1991"/>
+      <outline text="Banahan, Mike" author="Mike Banahan" title="UNIX" publisher="Hanser Fachbuchverlag" isbn="3446139753"/>
+      <outline text="Banahan, Mike" author="Mike Banahan" title="UNIX - The Book" publisher="Sigma Press" isbn="0905104218" year="1983"/>
+      <outline text="Barker, F. Scott" author="F. Scott Barker" title="Visual C# 2005 Express Edition Starter Kit" publisher="Wrox/Wiley" isbn="0764589555" year="2006"/>
+      <outline text="Barnes, David" author="David Barnes" title="Object-Oriented Programming with Java: An Introduction" publisher="Prentice Hall" isbn="0130869007" year="2000"/>
+      <outline text="Barnes, John" author="John Barnes" title="Programming in Ada 2005" publisher="Addison-Wesley" isbn="0321340787" year="2006"/>
+      <outline text="Barrett, Daniel" author="Daniel Barrett" title="Bandits on the Information Superhighway" publisher="O'Reilly UK" isbn="1565921569" year="1996"/>
+      <outline text="Barron, David" author="David Barron" title="The World of Scripting Languages" publisher="John Wiley &amp; Sons" isbn="0471998869" year="2001"/>
+      <outline text="Bauer, Friedrich L." author="Friedrich L. Bauer" title="Entzifferte Geheimnisse" publisher="Springer Verlag* Ny Inc" isbn="3540581189" year="1995"/>
+      <outline text="Bauer, Friedrich L." author="Friedrich L. Bauer" title="Software Engineering: An Advanced Course" publisher="Springer Verlag" isbn="0387061851" year="1973"/>
+      <outline text="Baum, Dave" author="Dave Baum" title="Definitive Guide to LEGO MINDSTORMS, Second Edition" publisher="APress" isbn="1590590635" year="2002"/>
+      <outline text="Baum, Dave" author="Dave Baum" title="Extreme Mindstorms: an Advanced Guide to Lego Mindstorms" publisher="APress" isbn="1893115844" year="2000"/>
+      <outline text="Beam, Michael" author="Michael Beam" title="Cocoa in a Nutshell: A Desktop Quick Reference" publisher="O'Reilly &amp; Associates" isbn="0596004621" year="2003"/>
+      <outline text="Becker, Byron Weber" author="Byron Weber Becker" title="Java: Learning to Program with Robots" publisher="Thomson Course Technology" isbn="0619217243" year="2007"/>
+      <outline text="Behme, H." author="H. Behme" title="XML in der Praxis. Professionelles Web-Publishing mit der Extensible Markup Language" publisher="Addison-Wesley" isbn="3827316367"/>
+      <outline text="Bell Labs" author="Incorporated Bell Telephone Laboratories" title="Unix Time-Sharing System: Unix Programmer's Manual" publisher="International Thomson Publishing" isbn="0030617421" year="1983"/>
+      <outline text="Bell Labs" author="Inc. Bell Telephone Laboratories" title="Unix Time-Sharing System: Unix Programmer's Manual" publisher="International Thomson Publishing" isbn="003061743X" year="1983"/>
+      <outline text="Bell, C. Gordon" author="C. Gordon Bell" title="High-Tech Ventures: The Guide for Entrepreneurial Success" publisher="Perseus Publishing" isbn="0201563215" year="1991"/>
+      <outline text="Bennedsen, Jens" author="Jens Bennedsen, Michael E. Caspersin, Michael Kölling (ed)" title="Reflections on the Teaching of Programming" publisher="Springer" isbn="9783540779339" year="2008"/>
+      <outline text="Bentley, Jon" author="Jon Bentley" title="Programming Pearls (2nd Edition)" publisher="Addison-Wesley Pub Co" isbn="0201657880" year="1999"/>
+      <outline text="Bentley, Jon Louis" author="Jon Louis Bentley" title="More Programming Pearls: Confessions of a Coder" publisher="Pearson Education POD" isbn="0201118890" year="1988"/>
+      <outline text="Bentley, Jon Louis" author="Jon Louis Bentley" title="Writing Efficient Programs" publisher="Prentice Hall Computer Books" isbn="013970244X" year="1982"/>
+      <outline text="Bercik, Bill" author="Bill Bercik" title="Inside Javascript" publisher="New Riders" isbn="1562055933" year="1996"/>
+      <outline text="Bergin, Thomas J." author="Thomas J. Bergin" title="History of Programming Languages, Volume 2" publisher="Addison-Wesley Pub Co" isbn="0201895021" year="1996"/>
+      <outline text="Bic, Lubomir" author="Lubomir Bic, Alan C. Shaw" title="Betriebssysteme" publisher="Hanser Fachbuchverlag" isbn="3446155732"/>
+      <outline text="Bic, Lubomir" author="Lubomir Bic, Alan C. Shaw" title="The Logical Design Of Operating Systems" publisher="Pearson Higher Education" isbn="0135401968" year="1988"/>
+      <outline text="Bieberstein, Norbert" author="Norbert Bieberstein et al." title="Executing SOA" publisher="IBM Press" isbn="0132353741" year="2008"/>
+      <outline text="Biersdorfer, J.D." author="J. D. Biersdorfer" title="iPod and iTunes: The Missing Manual (3. ed)" publisher="O’Reilly" isbn="0596008775" year="2005"/>
+      <outline text="Binstock, Cliff" author="Cliff Binstock, Dave Peterson, Mitchell Smith" title="The XML Schema Complete Reference" publisher="Addison-Wesley Pub Co" isbn="0672323745" year="2002"/>
+      <outline text="Bird, Richard" author="Richard Bird" title="Introduction to Functional Programming Using Haskell (2nd ed)" publisher="Prentice-Hall" isbn="0134843460" year="1988"/>
+      <outline text="Bischof" author="Bischof et al." title="Einblicke ins Internet" publisher="Carl Hanser Verlag" isbn="3446185127"/>
+      <outline text="Bischof, Hans-Peter" author="Hans-Peter Bischof" title="Das Netzbetriebssystem Plan 9" publisher="Hanser Fachbuch" isbn="3446188819"/>
+      <outline text="Bishop, J. M." author="J. M. Bishop" title="Java Gently: Programming Principles Explained" publisher="Addison-Wesley Pub Co" isbn="0201710501" year="2001"/>
+      <outline text="Bishop, Judith" author="Judith Bishop, Nigel Horspool" title="C# Concisely" publisher="Pearson Addison Wesley" isbn="0321154185" year="2004"/>
+      <outline text="Blachman, Nancy" author="Nancy Blachman" title="Mathematica Quick Reference, Version 2" publisher="Addison-Wesley Pub Co" isbn="0201628805" year="1992"/>
+      <outline text="Bloch, Arthur" author="Arthur Bloch" title="Murphy's Law and Other Reasons Why Things Go Wrong" publisher="Price Stern Sloan Pub" isbn="0843104287" year="1977"/>
+      <outline text="Bloch, Joshua" author="Joshua Bloch" title="Effective Java Programming Language Guide" publisher="Addison-Wesley Pub Co" isbn="0201310058" year="2001"/>
+      <outline text="Bloch, Joshua" author="Joshua Bloch &amp; Neal Gafter" title="Java Puzzlers" publisher="Addison-Wesley" isbn="032133678X" year="2005"/>
+      <outline text="Bolsky, M.I." author="M.I. Bolsky" title="The C Programmer's Handbook" publisher="Prentice Hall Computer Books" isbn="0131100734" year="1985"/>
+      <outline text="Bolsky, Morris I" author="Morris I Bolsky" title="The Kornshell Command Programming Language" publisher="Prentice Hall PTR" isbn="0135169720" year="1988"/>
+      <outline text="Bolsky, Morris I." author="Morris I. Bolsky" title="C tabellarisch" publisher="Hanser Fachbuchverlag" isbn="3446149775"/>
+      <outline text="Bolton, Fintan" author="Fintan Bolton" title="Pure Corba" publisher="SAMS" isbn="0672318121" year="2001"/>
+      <outline text="Borkner-Delcarlo, Olaf" author="Olaf Borkner-Delcarlo" title="Das Samba-Buch. Samba einrichten und konfigurieren" publisher="SUSE, Fürth" isbn="3930419939"/>
+      <outline text="Bourne, S. R." author="S. R. Bourne" title="Das UNIX System" publisher="Addison-Wesley, München" isbn="3925118179"/>
+      <outline text="Bourne, Stephen" author="Stephen Bourne" title="The Unix System" publisher="Pearson Addison Wesley" isbn="0201137917" year="1988"/>
+      <outline text="Bourne, Stephen R." author="Stephen R. Bourne" title="Das UNIX System V" publisher="Addison-Wesley, München" isbn="3925118233" year="1988"/>
+      <outline text="Boyle, Tom" author="Tom Boyle" title="Design for Multimedia Learning" publisher="Prentice Hall PTR" isbn="0132422158" year="1997"/>
+      <outline text="Bradley, Neil" author="Neil Bradley" title="The XML Schema Companion" publisher="Pearson Education" isbn="0321136179" year="2003"/>
+      <outline text="Bradley, Neil" author="Neil Bradley" title="The XSL Companion (2nd Edition)" publisher="Addison-Wesley Pub Co" isbn="0201770830" year="2002"/>
+      <outline text="Braude, Eric J." author="Eric J. Braude" title="Software Design: From Programming to Architecture" publisher="Wiley" isbn="0471204595" year="2003"/>
+      <outline text="Brill, Gregory" author="Gregory Brill" title="CodeNotes for J#" publisher="Random House Trade Paperbacks" isbn="0812971566" year="2003"/>
+      <outline text="Brinch Hansen, Per" author="Per Brinch Hansen" title="Betriebssysteme" publisher="Hanser Fachbuch, Mchn." isbn="3446121056"/>
+      <outline text="Brinch Hansen, Per" author="Per Brinch Hansen" title="Brinch Hansen on Pascal Compilers" publisher="Prentice Hall" isbn="0130830984" year="1985"/>
+      <outline text="Brinch Hansen, Per" author="Per Brinch Hansen" title="Programming: A Personal Computer" publisher="Prentice Hall" isbn="0137302835" year="1983"/>
+      <outline text="Brodie, Leo" author="Leo Brodie" title="In FORTH denken" publisher="Hanser Fachbuchverlag" isbn="3446143343"/>
+      <outline text="Brodie, Leo" author="Leo Brodie" title="Programmieren in FORTH" publisher="Hanser Fachbuchverlag" isbn="3446140700"/>
+      <outline text="Bronstein, I.N." author="I.N. Bronstein" title="Taschenbuch der Mathematik" publisher="Harri Deutsch" year="1956"/>
+      <outline text="Brooks, Frederick P." author="Frederick P. Brooks" title="The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition (2nd Edition)" publisher="Addison-Wesley Pub Co" isbn="0201835959" year="1995"/>
+      <outline text="Brookshier, Dan" author="Dan Brookshier" title="JavaBeans Developer's Reference" publisher="New Riders" isbn="1562057162" year="1997"/>
+      <outline text="Brown, Alan W." author="Alan W. Brown" title="Large Scale Component Based Development" publisher="Prentice Hall PTR" isbn="013088720X" year="2000"/>
+      <outline text="Brown, Chris" author="Chris Brown" title="Unix Distributed Programming" publisher="Prentice Hall" isbn="0130758965" year="1994"/>
+      <outline text="Broy, Manfred" author="Manfred Broy" title="Software Pioneers" publisher="Springer Verlag" isbn="3540430814" year="2002"/>
+      <outline text="Bruce, Glen" author="Glen Bruce" title="Security In Distributed Computing: Did You Lock the Door?" publisher="Pearson Education POD" isbn="0131829084" year="1996"/>
+      <outline text="Bucanek, James" author="James Bucanek" title="Beginning Xcode" publisher="Wrox" isbn="047175479X" year="2006"/>
+      <outline text="Bücker, Matthias C." author="Matthias C. Bücker , Joachim Geidel, Matthias F. Lachmann" title="Objectworks\Smalltalk Für Anfänger" publisher="Springer Verlag" isbn="354055291X" year="1993"/>
+      <outline text="Budd, Timothy" author="Timothy Budd" title="A Little Smalltalk" publisher="Addison-Wesley Pub Co" isbn="0201106981"/>
+      <outline text="Budd, Timothy" author="Timothy Budd" title="An Apl Compiler" publisher="Springer Verlag" isbn="0387966439" year="1988"/>
+      <outline text="Budd, Timothy" author="Timothy Budd" title="An Introduction to Object-Oriented Programming" publisher="Addison-Wesley Pub Co" isbn="0201824191" year="1997"/>
+      <outline text="Budd, Timothy" author="Timothy Budd" title="Classic Data Structures in Java" publisher="Pearson Addison Wesley" isbn="0201700026" year="2000"/>
+      <outline text="Budd, Timothy A." author="Timothy A. Budd" title="C++ For Java Programmers" publisher="Pearson Addison Wesley" isbn="0201612461" year="1999"/>
+    </outline>
+    <outline text="C">
+      <outline text="Caglayan, Alper K." author="Alper K. Caglayan" title="Intelligente Software-Agenten" publisher="Hanser Fachbuch" isbn="3446192697" year="1998"/>
+      <outline text="Callaway, Dustin R." author="Dustin R. Callaway" title="Inside Servlets: Server-Side Programming for the Java(TM) Platform (2nd Edition)" publisher="Addison-Wesley Pub Co" isbn="0201709066" year="2001"/>
+      <outline text="Campione, Mary" author="Mary Campione" title="The Java Tutorial: Object-Oriented Programming for the Internet (2nd Edition)" publisher="Addison-Wesley Pub Co" isbn="0201310074" year="1998"/>
+      <outline text="Carl-Mitchell, Smoot" author="Smoot Carl-Mitchell" title="Practical Internetworking with TCP/IP and UNIX(R)" publisher="Addison-Wesley Pub Co" isbn="0201586290" year="1993"/>
+      <outline text="Carlson, Doug" author="Doug Carlson" title="LEGO Mindstorms Masterpieces: Building Advanced Robots" publisher="Syngress" isbn="1931836752" year="2003"/>
+      <outline text="Castro, Elizabeth" author="Elizabeth Castro" title="XML for the World Wide Web" publisher="Peachpit Press" isbn="0201710986" year="2001"/>
+      <outline text="Chambers, John M." author="John M. Chambers" title="Programming with Data: A Guide to the S Language" publisher="Springer Verlag" isbn="0387985034" year="1998"/>
+      <outline text="Champlain, Michel de" author="Michel de Champlain, Brian G. Patrick" title="C# 2.0 Practical Guide for Programmers" publisher="Morgan Kaufmann" isbn="0121674517" year="2005"/>
+      <outline text="Chan, Terrence" author="Terrence Chan" title="Unix System Programming Using C++" publisher="Prentice Hall PTR" isbn="0133315622" year="1996"/>
+      <outline text="Chen, Kirk" author="Kirk Chen" title="Programming Open Service Gateways with Java Embedded Server(TM) Technology" publisher="Addison-Wesley Pub Co" isbn="0201711028" year="2001"/>
+      <outline text="Cheswick, William R." author="William R. Cheswick" title="Firewalls and Internet Security" publisher="Addison-Wesley Pub Co" isbn="0201633574" year="1994"/>
+      <outline text="Chivers, I. D." author="I. D. Chivers" title="Essential Linux Fast" publisher="Springer Verlag Pub (Computer Bks)" isbn="1852334088" year="2001"/>
+      <outline text="Clague, Kevin" author="Kevin Clague" title="LEGO Software Power Tools, With LDraw, MLCad, and LPub" publisher="Syngress" isbn="1931836760" year="2003"/>
+      <outline text="Clark, Dennis" author="Dennis Clark" title="Programming and Customizing the OOPic Microcontroller: The Official OOPic Handbook (TAB Robotics)" publisher="McGraw-Hill/TAB Electronics" isbn="0071420843" year="2003"/>
+      <outline text="Clark, Robert G." author="Robert G. Clark" title="Comparative Programming Languages (3rd Edition)" publisher="Pearson Addison Wesley" isbn="0201710129" year="2000"/>
+      <outline text="Coad, Peter" author="Peter Coad" title="Java Design: Building Better Apps and Applets" publisher="Prentice Hall" isbn="0132711494" year="1997"/>
+      <outline text="Comer, Douglas" author="Douglas Comer" title="Computernetzwerke und Internets" publisher="Markt und Technik" isbn="3827295521"/>
+      <outline text="Comer, Douglas" author="Douglas Comer" title="Operating System Design: The XINU Approach, Vol. I" publisher="Pearson Education POD" isbn="0136375391" year="1983"/>
+      <outline text="Comer, Douglas" author="Douglas Comer, Steven Munson" title="Operating System Design: The XINU Approach, Vol. I, Mac ed." publisher="Pearson Education POD" isbn="13638529X" year="1989"/>
+      <outline text="Comer, Douglas E." author="Douglas E. Comer" title="Internetworking with TCP/IP: Client-server Programming and Applications for the BSD Socket Version" publisher="Prentice Hall" isbn="013020272X" year="1992"/>
+      <outline text="Comer, Douglas E." author="Douglas E. Comer" title="Internetworking with TCP/IP: Internals and Implementation" publisher="Prentice Hall" isbn="0134653785" year="1991"/>
+      <outline text="Comer, Douglas E." author="Douglas E. Comer" title="Internetworking with TCP/IP: Principles, Protocols and Architecture" publisher="Prentice Hall" isbn="0134743210" year="1990"/>
+      <outline text="Computer Systems Research Group" author="Computer Systems Research Group" title="4.4 Bsd System Manager's Manual (Smm)" publisher="O'Reilly &amp; Associates" isbn="1565920805" year="1994"/>
+      <outline text="Computer Systems Research Group" author="Computer Systems Research Group" title="4.4 Bsd User's Reference Manual (Urm)" publisher="O'Reilly &amp; Associates" isbn="1565920759" year="1994"/>
+      <outline text="Computer Systems Research Group" author="Uc Berkeley Staff Computer Systems Research Group" title="Bsd-Lite 4.4 Cd-Rom Companion: International Edition" publisher="O'Reilly &amp; Associates" isbn="1565920929" year="1994"/>
+      <outline text="Conger, David" author="David Conger" title="Remoting with C# and .NET: Remote Objects for Distributed Applications" publisher="John Wiley &amp; Sons" isbn="047127352X" year="2003"/>
+      <outline text="Conrad, James M." author="James M. Conrad" title="Stiquito Controlled!" publisher="Wiley-Interscience" isbn="0471488828" year="2005"/>
+      <outline text="Cooke, Daniel E." author="Daniel E. Cooke" title="A Concise Introduction to Computer Languages With Infotrac: Design, Experimentation, and Paradigms" publisher="Brooks Cole" isbn="0534376959" year="2002"/>
+      <outline text="Cooper, James W." author="James W. Cooper" title="C# Design Patterns: A Tutorial" publisher="Addison-Wesley Pub Co" isbn="0201844532" year="2002"/>
+      <outline text="Cooper, James W." author="James W. Cooper" title="Java Design Patterns: A Tutorial" publisher="Addison-Wesley Pub Co" isbn="0201485397" year="2000"/>
+      <outline text="Costales, Bryan" author="Bryan Costales" title="Sendmail" publisher="O'Reilly &amp; Associates" isbn="1565920562" year="1993"/>
+      <outline text="Coulouris, George" author="George Coulouris" title="Distributed Systems: Concepts and Design (3rd Edition)" publisher="Addison-Wesley Pub Co" isbn="0201619180" year="2000"/>
+      <outline text="Craig, D. Iain" author="Iain D. Craig" title="Programming in Dylan" publisher="Springer Verlag" isbn="3540760539" year="1997"/>
+      <outline text="Craig, Iain D." author="Iain D. Craig" title="Object-Oriented Programming Languages" publisher="Springer Verlag" isbn="9781846287732" year="2007"/>
+    </outline>
+    <outline text="D">
+      <outline text="Daconta, Michael C." author="Michael C. Daconta" title="Java Pitfalls: Time-Saving Solutions and Workarounds to Improve Programs" publisher="John Wiley &amp; Sons" isbn="0471361747" year="2000"/>
+      <outline text="Dale, Nell" author="Nell Dale, John McCormick" title="Ada Plus Data Structures (2nd ed)" publisher="Jones and Bartlett" isbn="0763737941" year="2007"/>
+      <outline text="Danegger, Christian" author="Christian Danegger" title="Parallele Prozesse unter UNIX" publisher="Hanser Fachbuch" isbn="3446159118"/>
+      <outline text="Daum, Berthold" author="Berthold Daum" title="Modeling Business Objects With XML Schema" publisher="Morgan Kaufmann" isbn="1558608168" year="2003"/>
+      <outline text="Dayton, Linnea" author="Linnea Dayton" title="The Photoshop 3 Wow! Book" publisher="Peachpit Press" isbn="0201883708" year="1996"/>
+      <outline text="Deitel, H" author="H. M. Deitel, P. J. Deitel" title="Visual C# 2005" publisher="Prentice Hall" isbn="0131525239" year="2006"/>
+      <outline text="Deitel, Harvey M." author="Harvey M. Deitel" title="Java How to Program (4th Edition)" publisher="Prentice Hall" isbn="0130341517" year="2001"/>
+      <outline text="Deitel, Harvey M." author="Harvey M. Deitel, Paul J. Deitel, David R. Choffnes" title="Operating Systems (3rd Edition)" publisher="Prentice Hall" isbn="0131828274" year="2003"/>
+      <outline text="Deitel, Harvey M." author="Harvey M. Deitel" title="Simply C#: An Application-Driven Tutorial Approach" publisher="Prentice Hall" isbn="0131426419" year="2004"/>
+      <outline text="DeMarco, Tom" author="Tom DeMarco" title="Peopleware: Productive Projects and Teams" publisher="Dorset House Publishing Co" isbn="0932633056" year="1987"/>
+      <outline text="DeMarco, Tom" author="Tom DeMarco" title="Warum ist Software so teuer? Und andere Rätsel des Informationszeitalters" publisher="Hanser Fachbuch" isbn="3446189025" year="1997"/>
+      <outline text="DeMarco, Tom" author="Tom DeMarco" title="Wien wartet auf Dich. Der Faktor Mensch im DV-Management" publisher="Hanser Fachbuch, Mchn." isbn="3446162291"/>
+      <outline text="Denning, Peter J." author="Peter J. Denning" title="Beyond Calculation: The Next Fifty Years of Computing" publisher="Copernicus Books" isbn="0387949321" year="1997"/>
+      <outline text="Digital Equipment" author="Digital Equipment" title="Basic Computer Games" publisher="Digital Equipment" year="1973"/>
+      <outline text="Digital Research" author="Digital Research" title="DrLogo" year="1983"/>
+      <outline text="Dijkstra, Edsger Wybe" author="Edsger Wybe Dijkstra" title="A Discipline of Programming" publisher="Pearson Education POD" isbn="013215871X" year="1997"/>
+      <outline text="Dijkstra, Edsger Wybe" author="Edsger Wybe Dijkstra" title="Selected Writings on Computing: A Personal Perspective" publisher="Springer Verlag" isbn="0387906525" year="1982"/>
+      <outline text="Doberkat, Ernst E" author="Ernst E Doberkat" title="Einführung in die Programmierung mit BETA" isbn="3827310261"/>
+      <outline text="Dölfel, Hardy" author="Hardy Dölfel" title="Kommunikation unter UNIX" publisher="Hanser Fachbuchverlag" isbn="3446155147" year="1990"/>
+      <outline text="Dorling, Brian" author="Brian Dorling, Jaap Burger, Daniel Freedman, Chris Metz, IBM Books" title="Internetworking Over ATM: An Introduction" publisher="Prentice Hall PTR" isbn="0136123848" year="1996"/>
+      <outline text="Dornfest, Rael" author="Rael Dornfest, Kevin Hemenway" title="Mac OS X Hacks" publisher="O'Reilly &amp; Associates" isbn="0596004605" year="2003"/>
+      <outline text="Drayton, Peter" author="Peter Drayton" title="C# in a Nutshell (2nd ed)" publisher="O'Reilly &amp; Associates" isbn="0596005261" year="2003"/>
+      <outline text="Duden" author="Duden" title="Duden Rechtschreibung (Duden 1)" publisher="Distribooks Intl" isbn="3411209003" year="1986"/>
+      <outline text="Duncan, Ray" author="Ray Duncan" title="Advanced MS-DOS Programming" publisher="Microsoft Press" isbn="0914845772" year="1986"/>
+    </outline>
+    <outline text="E">
+      <outline text="Eckel, Bruce" author="Bruce Eckel" title="Thinking in Java (2nd Edition)" publisher="Prentice Hall PTR" isbn="0130273635" year="2000"/>
+      <outline text="Egan, Janet I." author="Janet I. Egan, Thomas J. Teixeira" title="Writing a Unix Device Driver" publisher="John Wiley &amp; Sons" isbn="0471535745" year="1992"/>
+      <outline text="Ellis, Margaret A." author="Margaret A. Ellis, Bjarne Stroustrup" title="The Annotated C++ Reference Manual" publisher="Addison-Wesley Pub Co" isbn="0201514591" year="1990"/>
+      <outline text="Elson, Mark" author="Mark Elson" title="Concepts of Programming Languages" publisher="SRA" year="1963"/>
+      <outline text="Emerson, Sandra L." author="Sandra L. Emerson, Karen Paulsell" title="Troff Typesetting for Unix Systems" publisher="Prentice Hall Computer Books" isbn="0139309594" year="1986"/>
+      <outline text="Engel, Joshua" author="Joshua Engel" title="Programming for the Java(TM) Virtual Machine" publisher="Addison-Wesley Pub Co" isbn="0201309726" year="1999"/>
+      <outline text="Entsminger, Gary" author="Gary Entsminger" title="The Way of Java" publisher="Prentice Hall PTR" isbn="0134919785" year="1997"/>
+      <outline text="Erbs, Heinz-Erich" author="Heinz-Erich Erbs" title="Dreiunddreißig Spiele mit PASCAL" publisher="Teubner" isbn="3519025183" year="1984"/>
+      <outline text="Erl, Thomas" author="Thomas Erl" title="Service-Oriented Architecture" publisher="Prentice Hall" isbn="0131428985" year="2004"/>
+      <outline text="Ershov, A. P." author="A. P. Ershov" title="Methods of Algorithmic Language Implementation" publisher="Springer Verlag" isbn="0387080651" year="1977"/>
+      <outline text="Erwin, Benjamin" author="Benjamin Erwin" title="Creative Projects with LEGO Mindstorms" publisher="Pearson Educational" isbn="0201708957" year="2001"/>
+      <outline text="Esakov, J." author="J. Esakov, T. Weiss" title="Data Structures" publisher="Prentice Hall" isbn="0131990438" year="1989"/>
+    </outline>
+    <outline text="F">
+      <outline text="Felleisen, Matthies" author="Matthias Felleisen and Daniel P. Friedman" title="A Little Java, A Few Patterns" publisher="MIT Press" isbn="0262561158" year="2000"/>
+      <outline text="Ferrari, Giulio" author="Dario Laverde, Giulio Ferrari, Jurgen Stuber" title="Programming Lego Mindstorms with Java" publisher="Syngress" isbn="1928994555" year="2002"/>
+      <outline text="Ferrari, Mario" author="Mario Ferrari, Giulio Ferrari, Ralph Hempel" title="Building Robots With Lego Mindstorms" publisher="Syngress" isbn="1928994679" year="2001"/>
+      <outline text="Feuer, Alan R." author="Alan R. Feuer" title="Comparing and Assessing Programming Languages: Ada, C and Pascal" publisher="Prentice Hall" isbn="0131548409" year="1984"/>
+      <outline text="Feuer, Alan R." author="Alan R. Feuer" title="Das C-Puzzlebuch" publisher="Hanser Elektronik / Fachbuch" isbn="3446161724"/>
+      <outline text="Feuer, Alan R." author="Alan R. Feuer" title="Der C-Trainer" publisher="Hanser Fachbuchverlag" isbn="3446150552"/>
+      <outline text="Feuer, Alan R." author="Alan R. Feuer" title="The C Puzzle Book" publisher="Prentice Hall" isbn="0131099264" year="1985"/>
+      <outline text="Feuer, Alan R." author="Alan R. Feuer" title="The C Trainer" publisher="Simon &amp; Schuster" isbn="0131097520" year="1986"/>
+      <outline text="Finkel" author="Finkel" title="Operating Systems Vade Mecum" publisher="Pearson Higher Education" isbn="0136375707" year="1988"/>
+      <outline text="Flanagan, David" author="David Flanagan, Jim Farley, William Crawford" title="Java Enterprise in a Nutshell (2nd Edition)" publisher="O'Reilly &amp; Associates" isbn="0596001525" year="2002"/>
+      <outline text="Flanagan, David" author="David Flanagan" title="Java Examples in a Nutshell: A Tutorial Companion to Java in a Nutshell" publisher="O'Reilly &amp; Associates" isbn="0596000391" year="2000"/>
+      <outline text="Flanagan, David" author="David Flanagan" title="Java Foundation Classes in A Nutshell" publisher="O'Reilly &amp; Associates" isbn="1565924886" year="1999"/>
+      <outline text="Flanagan, David" author="David Flanagan" title="Java in a Nutshell, Fifth Edition" publisher="O'Reilly &amp; Associates" isbn="0596007736" year="2005"/>
+      <outline text="Flanagan, David" author="David Flanagan" title="JavaScript Definitive Guide, 5th ed." publisher="O'Reilly &amp; Associates" isbn="9780596101992" year="2006"/>
+      <outline text="Ford, Ann" author="Ann Ford" title="Practical Debugging in Java" publisher="Prentice Hall" isbn="0131427814" year="2003"/>
+      <outline text="Fowler, Martin" author="Martin Fowler" title="UML Distilled: A Brief Guide to the Standard Object Modeling Language, Third Edition" publisher="Addison-Wesley Pub Co" isbn="0321193687" year="2003"/>
+      <outline text="Francis, George K." author="George K. Francis" title="A Topological Picturebook" publisher="Springer Verlag" isbn="0387964266" year="1988"/>
+      <outline text="Francksen, Eike" author="Eike Francksen" title="C SAA" publisher="Hanser Fachbuchverlag" isbn="3446165827"/>
+      <outline text="Friedman-Hill, Ernest" author="Ernest Friedman-Hill" title="Java: Your visual blueprint for building portable Java programs" publisher="Visual" isbn="0764535439" year="2001"/>
+      <outline text="Friedman, Daniel" author="Daniel Friedman, Mitchell Wand, Eugene Kohlbecker" title="Essentials of Programming Languages" publisher="McGraw-Hill Science/Engineering/Math" isbn="0070224439" year="1992"/>
+      <outline text="Friedman, Daniel P." author="Daniel P. Friedman, Mitchell Wand" title="Essentials of Programming Languages - 3rd Edition" publisher="MIT Press" isbn="9780262062794" year="2008"/>
+      <outline text="Friedman, Daniel P." author="Daniel P. Friedman, Matthias Felleisen" title="The Little Schemer - 4th Edition" publisher="MIT Press" isbn="0262560992" year="1995"/>
+      <outline text="Friedman, Daniel P." author="Daniel P. Friedman, Matthias Felleisen" title="The Seasoned Schemer" publisher="MIT Press" isbn="026256100X" year="1995"/>
+      <outline text="Friedman, Daniel P. et al." author="Daniel P. Friedman, William E. Byrd, Oleg Kiselyov" title="The Reasoned Schemer" publisher="MIT Press" isbn="0262562146" year="2005"/>
+      <outline text="Frisch, AEleen" author="AEleen Frisch" title="Essential System Administration (A Nutshell Handbook)" publisher="O'Reilly &amp; Associates" isbn="0937175803" year="1991"/>
+    </outline>
+    <outline text="G">
+      <outline text="Galli, Doreen L." author="Doreen L. Galli" title="Distributed Operating Systems: Concepts and Practice" publisher="Prentice Hall" isbn="0130798436" year="1999"/>
+      <outline text="Gamma, Eric" author="Eric Gamma" title="Objektorientierte Software-Entwicklung Am Beispiel Von Et++" isbn="3540560068"/>
+      <outline text="Gamma, Erich" author="Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides" title="Design Patterns" publisher="Addison-Wesley Pub Co" isbn="0201633612" year="1995"/>
+      <outline text="Gardner, Martin" author="Martin Gardner" title="Aha! Insight" publisher="Scientific American" isbn="0894540017" year="1978"/>
+      <outline text="Garfinkel, Simson" author="Simson Garfinkel, Gene Spafford" title="Practical Unix Security" publisher="O'Reilly &amp; Associates" isbn="0937175722" year="1991"/>
+      <outline text="Garrido, Jose" author="José M. Garrido, Richard Schlesinger" title="Principles of Modern Operating Systems" publisher="Jones and Bartlett" isbn="0763735744" year="2008"/>
+      <outline text="Geary, David M." author="David M. Geary, Alan L. McClellan, Alan L. McCellan" title="Graphic Java: Mastering the AWT" publisher="Prentice Hall PTR" isbn="0135658470" year="1997"/>
+      <outline text="Gehani, Narain" author="Narain Gehani" title="Document Formatting and Typesetting on the Unix System" publisher="Silicon Pr" isbn="0961533625" year="1987"/>
+      <outline text="Gehani, Narain" author="Narain Gehani, William D. Roome" title="The Concurrent C Programming Language" publisher="Silicon Press" isbn="0131708201" year="1990"/>
+      <outline text="Gehret, Michael" author="Michael Gehret" title="Softwareentwicklung am Beispiel einer Dateiverwaltung (HP-41)" publisher="Vieweg, Wiesbaden" isbn="3528042869"/>
+      <outline text="Gelernter, David" author="David Gelernter" title="Gespiegelte Welten im Computer" publisher="Hanser Fachbuchverlag" isbn="3446175075" year="1996"/>
+      <outline text="Geraghty, Ronan" author="Ronan Geraghty, Sam Joyce, Tom Moriarty, Gary Noone" title="COM-CORBA Interoperability" publisher="Prentice Hall PTR" isbn="0130962775" year="1998"/>
+      <outline text="Geurts, Leo" author="Leo Geurts, Lambert Meertens, Steven Pemberton" title="ABC Programmer's Handbook" publisher="Prentice Hall" isbn="0130000272" year="1991"/>
+      <outline text="Ghezzi, Carlo" author="Carlo Ghezzi, Mehdi Jazayeri" title="Programming Language Concepts" publisher="Wiley Text Books" isbn="0471104264" year="1997"/>
+      <outline text="Goldberg, Adele" author="Adele Goldberg, David Robson" title="Smalltalk-80: The Language and its Implementation" publisher="Addison-Wesley Pub Co" isbn="0201113716" year="1983"/>
+      <outline text="Goldberg, Kevin Howard" author="Kevin Howard Goldberg" title="XML Visual Quickstart Guide, 2nd ed." publisher="Peachpit Press" isbn="0321559673" year="2009"/>
+      <outline text="Goldfarb, Charles F." author="Charles F. Goldfarb &amp; Paul Prescod" title="XML Handbook (5th ed)" publisher="Prentice Hall" isbn="0130497657" year="2004"/>
+      <outline text="Goodheart, Berny" author="Berny Goodheart, James Cox, John R. Mashey" title="The Magic Garden Explained: The Internals of Unix System V Release 4: An Open Systems Design" publisher="Prentice Hall" isbn="0130981389" year="1994"/>
+      <outline text="Gorbach, Rudolf" author="Rudolf Gorbach" title="Schrift Revue" publisher="EDTZ" year="1992"/>
+      <outline text="Gorlen, Keith E." author="Keith E. Gorlen, Perry S. Plexico, Sanford Orlow" title="Data Abstraction and Object-Oriented Programming in C++" publisher="John Wiley &amp; Sons" isbn="0471927511" year="1990"/>
+      <outline text="Gosling, James" author="James Gosling, Frank Yellin" title="Das Java API I. Die Basispakete" publisher="Addison-Wesley, München" isbn="3827310407" year="1997"/>
+      <outline text="Gosling, James" author="James Gosling, Frank Yellin" title="Das Java API II. Das Windows Toolkit und Applets" publisher="Addison-Wesley, München" isbn="3827310849" year="1996"/>
+      <outline text="Gosling, James" author="Bill Joy, Guy Steele, James Gosling, Gilad Bracha" title="Java(TM) Language Specification (2nd Edition)" publisher="Addison-Wesley Pub Co" isbn="0201310082" year="2000"/>
+      <outline text="Grabowski, Ralph" author="Ralph Grabowski" title="The Web Publisher's Illustrated Quick Reference: Covers Html 3.2 and Vrml 2.0" publisher="Springer Verlag" isbn="0387948317" year="1996"/>
+      <outline text="Graham, Ian S." author="Ian S. Graham" title="The Html Sourcebook" publisher="John Wiley &amp; Sons" isbn="0471118494" year="1995"/>
+      <outline text="Gries, David" author="David Gries" title="Compiler Construction for Digital Computers" publisher="John Wiley &amp; Sons" isbn="047132776X" year="1971"/>
+      <outline text="Gries, David" author="David Gries, Paul Gries" title="Multimedia Introduction to Programming Using Java" publisher="Springer" isbn="0387226818" year="2005"/>
+      <outline text="Gries, David" author="David Gries, Paul Gries, Petra Hall" title="ProgramLive Workbook and CD" publisher="Wiley Text Books" isbn="0471441589" year="2001"/>
+      <outline text="Gries, David" author="David Gries" title="Programming Methodology: A Collection of Articles by Members of Ifip Wg2.3" publisher="Springer Verlag" isbn="0387903291" year="1978"/>
+      <outline text="Gries, David" author="David Gries" title="The Science of Programming" publisher="Springer-Verlag Telos" isbn="038790641X" year="1981"/>
+      <outline text="Griswold, Ralph" author="Ralph Griswold, Madge T. Griswold" title="The Icon Programming Language" publisher="Prentice Hall" isbn="0134497775" year="1990"/>
+      <outline text="Griswold, Ralph E." author="Ralph E. Griswold" title="The Snobol 4 Programming Language" publisher="Prentice Hall" isbn="0138153736" year="1971"/>
+      <outline text="Groth, Robert" author="Robert Groth, David Gerber" title="Hands-On SQL: The Language, Querying, Reporting and the Marketplace" publisher="Prentice Hall PTR" isbn="0134861434" year="1996"/>
+      <outline text="Grune, D." author="D. Grune, H. Bal, C. Jacobs, K. Langendoen" title="Modern Compiler Design" publisher="John Wiley &amp; Sons" isbn="0471976970" year="2000"/>
+      <outline text="Guest, Simon" author="Simon Guest" title="Microsoft .NET and J2EE Interoperability Toolkit" publisher="Microsoft Press" isbn="0735619220" year="2003"/>
+      <outline text="Gulbins, Jürgen" author="Jürgen Gulbins, Christine Kahrmann" title="Mut zur Typographie" publisher="Springer Verlag" isbn="3540557083" year="1992"/>
+      <outline text="Gulbins, Jürgen" author="Jürgen Gulbins, Karl Obermayr" title="Unix: System V.4: Eine Einfuhrung in Begriffe Und Kommandos" publisher="Springer Verlag" isbn="3540588647" year="1996"/>
+      <outline text="Gunnerson, Eric" author="Eric Gunnerson" title="A Programmer's Introduction to C# (Second Edition)" publisher="APress" isbn="1893115623" year="2001"/>
+      <outline text="Guzdial, Mark J." author="Mark J. Guzdial, Kimberly M. Rose" title="Squeak: Open Personal Computing and Multimedia" publisher="Prentice Hall" isbn="0130280917" year="2001"/>
+    </outline>
+    <outline text="H">
+      <outline text="Habermann, A. Nico" author="A. Nico Habermann" title="Introduction to Operating System Design" publisher="Science Research Associates" isbn="057421075X" year="1976"/>
+      <outline text="Haggar, Peter" author="Peter Haggar" title="Practical Java(TM) Programming Language Guide" publisher="Addison-Wesley Pub Co" isbn="0201616467" year="2000"/>
+      <outline text="Hahn, Harley" author="Harley Hahn" title="Harley Hahn's Student Guide To Unix" publisher="McGraw-Hill Science/Engineering/Math" isbn="0070254923" year="1996"/>
+      <outline text="Halabi, Bassam" author="Bassam Halabi" title="Internet Routing Architectures" publisher="Cisco Press" isbn="1562056522" year="1997"/>
+      <outline text="Halstead, Maurice Howard" author="Maurice Howard Halstead" title="A Laboratory Manual for Compiler and Operating System Implementation" publisher="Elsevier Science" isbn="0444001425" year="1974"/>
+      <outline text="Hansen, Tony L." author="Tony L. Hansen" title="The C++ Answer Book" publisher="Addison-Wesley Pub Co" isbn="0201114976" year="1989"/>
+      <outline text="Hapner, Mark" author="Mark Hapner, Rich Burridge, Rahul Sharma, Joseph Fialli, Kim Haase" title="Java Message Service API Tutorial and Reference: Messaging for the J2EE Platform" publisher="Addison-Wesley Pub Co" isbn="0201784726" year="2002"/>
+      <outline text="Harbison, Samuel" author="Samuel Harbison, Tartan Laboratories, Guy L., Jr. Steele" title="C, a Reference Manual" publisher="Prentice Hall" isbn="0131098020" year="1987"/>
+      <outline text="Harbison, Samuel P." author="Samuel P. Harbison" title="Modula-3" publisher="Prentice Hall" isbn="0135963966" year="1992"/>
+      <outline text="Harold, Elliotte Rusty" author="Elliotte Rusty Harold" title="Effective XML: 50 Specific Ways to Improve Your XML" publisher="Addison-Wesley Pub Co" isbn="0321150406" year="2003"/>
+      <outline text="Harold, Elliotte Rusty" author="Elliotte Rusty Harold" title="Processing XML with Java: A Guide to SAX, DOM, JDOM, JAXP, and TrAX" publisher="Addison-Wesley Pub Co" isbn="0201771861" year="2002"/>
+      <outline text="Harold, Elliotte Rusty" author="Elliotte Rusty Harold" title="XML 1.1 Bible" publisher="Wiley" isbn="0764549863" year="2004"/>
+      <outline text="Harold, Elliotte Rusty" author="Elliotte Rusty Harold, W. Scott Means" title="XML in a Nutshell, 3rd Edition" publisher="O'Reilly &amp; Associates" isbn="0596007647" year="2004"/>
+      <outline text="Hartmann, Alfred C." author="Alfred C. Hartmann" title="A Concurrent Pascal Compiler for Microcomputers" publisher="Springer Verlag" isbn="3540082409" year="1977"/>
+      <outline text="Hein, Mathias" author="Mathias Hein" title="TCP/IP" publisher="mitp" isbn="3826640799" year="2000"/>
+      <outline text="Heinzl, Steffen" author="Steffen Heinzl, Markus Mathes" title="Middleware in Java" publisher="Vieweg" isbn="3528059125" year="2005"/>
+      <outline text="Hejlsberg, Anders" author="Anders Hejlsberg, Scott Wiltamuth, Peter Golde" title="The C# Programming Language, 2nd ed" publisher="Addison-Wesley Pub Co" isbn="0321334434" year="2006"/>
+      <outline text="Hekmatpour, Sharam" author="Sharam Hekmatpour" title="Lisp: A Portable Implementation" publisher="Prentice Hall" isbn="0135374901" year="1989"/>
+      <outline text="Hempel, Ralph" author="Ralph Hempel" title="LEGO Spybotics Secret Agent Training Manual" publisher="APress" isbn="1590590910" year="2002"/>
+      <outline text="Hoare" author="Hoare, C. A. R. (Edt)/ Perrott, Ronald H." title="Operating Systems Techniques: Proceedings" publisher="Academic Press" isbn="0123506506" year="1973"/>
+      <outline text="Hoare, C. A. R." author="C. A. R. Hoare, C.B. Jones, Bobbie Jones" title="Essays in Computing Science" publisher="Prentice Hall" isbn="0132840278" year="1989"/>
+      <outline text="Hobbs, Ashton" author="Ashton Hobbs, Sams Publishing" title="Teach Yourself Database Programming With Jdbc in 21 Days" publisher="SAMS" isbn="1575211238" year="1997"/>
+      <outline text="Hoffman, Daniel M." author="Daniel M. Hoffman, David M. Weiss" title="Software Fundamentals: Collected Papers by David L. Parnas" publisher="Addison-Wesley Pub Co" isbn="0201703696" year="2001"/>
+      <outline text="Hoffmann, Hans-Jürgen" author="Hans-Jürgen Hoffmann" title="SMALLTALK verstehen und anwenden" publisher="Hanser Fachbuch, Mchn." isbn="3446145567" year="1987"/>
+      <outline text="Hofmann, Martin" author="Martin Hofmann, Lothar Simon" title="Problemlösung Hypertext" publisher="Hanser Fachbuchverlag" isbn="3446178139" year="1995"/>
+      <outline text="Hogan, Thom" author="Thom Hogan, Mike Iannamico" title="Osborne 1 User's Reference Guide" publisher="Osborne Computer" year="1981"/>
+      <outline text="Hohmann, Luke" author="Luke Hohmann" title="Journey of the Software Professional: The Sociology of Computer Programming" publisher="Prentice Hall PTR" isbn="0132366134" year="1996"/>
+      <outline text="Hohn, Franz" author="Franz Hohn" title="Applied Boolean Algebra (2nd ed)" publisher="Macmillan" year="1966"/>
+      <outline text="Holt, Richard C." author="Richard C. Holt" title="Concurrent Euclid, the Unix* System, and Tunis" publisher="Pearson Addison Wesley" isbn="0201106949" year="1983"/>
+      <outline text="Holt, Richard C." author="Richard C. Holt, Philip A. Matthews, J. Alan Rosselet, J.R. Cordy" title="The Turing Programming Language: Design and Definition" publisher="Prentice Hall" isbn="0139331360" year="1987"/>
+      <outline text="Holub, Allen I." author="Allen I. Holub" title="C + C++: Programming With Objects in C and C++" publisher="Computing McGraw-Hill" isbn="0070296626" year="1992"/>
+      <outline text="Holub, Allen I." author="Allen I. Holub" title="C Companion" publisher="Prentice Hall" isbn="0131097865" year="1987"/>
+      <outline text="Holub, Allen I." author="Allen I. Holub" title="Compiler Design in C" publisher="Pearson Higher Education" isbn="0131551515" year="1990"/>
+      <outline text="Hopcroft, John" author="John Hopcroft, Jeffrey Ullman" title="Formal Languages and their Relation to Automata" publisher="Addison-Wesley" year="1969"/>
+      <outline text="Hopgood, F.R.A." author="F.R.A. Hopgood" title="Compiling Techniques" publisher="American Elsevier" year="1969"/>
+      <outline text="Hopkins, Trevor" author="Trevor Hopkins, Bernard Horan" title="Objektorientierte Programmierung mit Smalltalk" publisher="Hanser Fachbuch" isbn="3446188770" year="1997"/>
+      <outline text="Horstmann, Cay" author="Cay Horstmann" title="Object-Oriented Design &amp; Patterns (2nd ed)" publisher="Wiley" isbn="0471744875" year="2006"/>
+      <outline text="Horstmann, Cay S." author="Cay S. Horstmann, Gary Cornell" title="Core Java 2, Volume I: Fundamentals (6th Edition)" publisher="Prentice Hall PTR" isbn="0130471771" year="2002"/>
+      <outline text="Horstmann, Cay S." author="Cay S. Horstmann, Gary Cornell" title="Core Java 2, Volume II: Advanced Features (7th Edition)" publisher="Prentice Hall PTR" isbn="0131118269" year="2005"/>
+      <outline text="Howard, Michael" author="Michael Howard, David C. LeBlanc" title="Writing Secure Code, Second Edition" publisher="Microsoft Press" isbn="0735617228" year="2002"/>
+      <outline text="Howes, Timothy A." author="Mark Smith, Timothy A. Howes" title="LDAP: Programming Directory-Enabled Apps" publisher="Que" isbn="1578700000" year="1997"/>
+      <outline text="Hudak, Paul" author="Paul Hudak" title="The Haskell School of Expression: Learning Functional Programming through Multimedia" publisher="Cambridge Univ Pr (Trd)" isbn="0521644089" year="2000"/>
+      <outline text="Hughes, Cheryl M." author="Cheryl M. Hughes" title="The Web Wizard's Guide to XML" publisher="Prentice Hall" isbn="0201769905" year="2002"/>
+      <outline text="Huitema, Christian" author="Christian Huitema" title="Ipv6: The New Internet Protocol" publisher="Prentice Hall" isbn="013241936X" year="1996"/>
+      <outline text="Huitema, Christian" author="Christian Huitema" title="Routing in the Internet" publisher="Prentice Hall PTR" isbn="0131321927" year="1995"/>
+      <outline text="Hunter, David" author="David Hunter et al." title="Beginning XML (3rd ed)" publisher="Wrox" isbn="0764570773" year="2004"/>
+      <outline text="Hunter, Robin" author="Robin Hunter" title="The Design and Construction of Compilers" publisher="John Wiley &amp; Sons" isbn="0471280542" year="1982"/>
+      <outline text="Husain, Kamran" author="Kamran Husain, Jason Levitt" title="Javascript Developer's Resource: Client-Side Programming Using Html, Netscape Plug-Ins and Java Applets" publisher="Prentice Hall Computer Books" isbn="013267923X" year="1997"/>
+      <outline text="Hutton, Graham" author="Graham Hutton" title="Programming in Haskell" publisher="Cambridge University Press" isbn="0521692695" year="2007"/>
+      <outline text="Hvatum, Lise" author="Lise Hvatum, Till Schümmer (eds)" title="EuroPLoP'07" publisher="Universitätsverlag Konstanz" isbn="9783879408191" year="2008"/>
+    </outline>
+    <outline text="I">
+      <outline text="Ihnatko, Andy" author="Andy Ihnatko" title="The Mac OS X Tiger Book" publisher="Wiley" isbn="0764579576" year="2005"/>
+      <outline text="Ince, Darrel" author="Darrel Ince" title="Developing Distributed and E-Commerce Applications" publisher="Pearson Addison Wesley" isbn="0201730464" year="2001"/>
+      <outline text="Inmos" author="Inmos Ltd." title="Transputer Befehlssatz" publisher="Hanser Fachbuchverlag" isbn="3446157689" year="1990"/>
+      <outline text="ISO" author="ISO" title="SGML" publisher="ISO" year="2003"/>
+    </outline>
+    <outline text="J">
+      <outline text="Jackson, M. A." author="M. A. Jackson" title="Principles of Program Design" publisher="Academic Press" isbn="0123790506" year="1997"/>
+      <outline text="Jobst, Fritz" author="Fritz Jobst" title="Compilerbau" publisher="Hanser Fachbuchverlag" isbn="3446160957"/>
+      <outline text="Jobst, Fritz" author="Fritz Jobst" title="Programmieren in Java" publisher="Hanser Fachbuch, Mchn." isbn="3446187898" year="1996"/>
+      <outline text="Jones, Joseph L." author="Joseph L. Jones, Anita M. Flynn, Bruce A. Seiger" title="Mobile Robots: Inspiration to Implementation" publisher="A K Peters Ltd" isbn="1568810970" year="1999"/>
+      <outline text="Jones, Oliver" author="Oliver Jones" title="Einführung in das X Window System" publisher="Hanser" isbn="3446157980"/>
+      <outline text="Josuttis, Nicolai" author="Nicolai Josuttis" title="Die C++ - Standardbibliothek" publisher="Addison-Wesley, München" isbn="3827310237" year="1996"/>
+      <outline text="Journal, Dr. Dobbs" author="Dr. Dobbs Journal" title="C-Tools" publisher="Markt&amp;Technik" isbn="3890901905"/>
+      <outline text="Journal, Dr. Dobbs" author="Dr. Dobbs Journal" title="Dr. Dobb's Toolbook of C" publisher="Brady" isbn="0893036153"/>
+    </outline>
+    <outline text="K">
+      <outline text="Kalin, Martin" author="Martin Kalin" title="Object-Oriented Programming in Java" publisher="Prentice Hall" isbn="0130198595" year="2001"/>
+      <outline text="Karow, Peter" author="Peter Karow" title="Digitale Schriften" publisher="Springer, Berlin" isbn="354054917X" year="1992"/>
+      <outline text="Kastens, Uwe" author="Uwe Kastens" title="Übersetzerbau" publisher="Oldenbourg" isbn="3486207806" year="1990"/>
+      <outline text="Kaufmann, Stephan" author="Stephan Kaufmann" title="Mathematica As a Tool" publisher="Birkhauser Verlag" isbn="3764350318" year="1994"/>
+      <outline text="Kay, Michael" author="Michael Kay" title="Xpath 2.0 Programmer's Reference" publisher="Wrox" isbn="0764569104" year="2004"/>
+      <outline text="Kay, Michael" author="Michael Kay" title="XSLT 2.0 Programmer's Reference, 3rd ed." publisher="Wrox" isbn="0764569090" year="2004"/>
+      <outline text="Kay, Michael" author="Michael Kay" title="XSLT Programmer's Reference" publisher="Wrox" isbn="1861003129" year="2000"/>
+      <outline text="Kehoe, Brendan P." author="Brendan P. Kehoe" title="Zen and the Art of the Internet: A Beginner's Guide" publisher="Prentice Hall Computer Books" isbn="0131214926" year="1994"/>
+      <outline text="Kelly-Bootle, Stan." author="Stan. Kelly-Bootle" title="The Devil's Dp Dictionary" publisher="McGraw-Hill Companies" isbn="0070340226" year="1981"/>
+      <outline text="Kernighan, Brian W." author="Brian W. Kernighan" title="C Programming Language (2nd Edition)" publisher="Prentice Hall PTR" isbn="0131103628" year="1988"/>
+      <outline text="Kernighan, Brian W." author="Brian W. Kernighan" title="Der UNIX-Werkzeugkasten" publisher="Hanser Fachbuch" isbn="3446142738"/>
+      <outline text="Kernighan, Brian W." author="Brian W. Kernighan" title="Programmieren in C. ANSI C (2. A.)" publisher="Hanser Fachbuch" isbn="3446154973" year="1990"/>
+      <outline text="Kernighan, Brian W." author="Brian W. Kernighan, P. J. Plauger" title="Software Tools in Pascal" publisher="Addison-Wesley Pub Co" isbn="0201103427" year="1981"/>
+      <outline text="Kernighan, Brian W." author="Brian W. Kernighan, P. J. Plauger" title="The Elements of Programming Style" publisher="Computing McGraw-Hill" isbn="0070342075" year="1988"/>
+      <outline text="Kernighan, Brian W." author="Brian W. Kernighan, Rob Pike" title="The Practice of Programming" publisher="Addison-Wesley Pub Co" isbn="020161586X" year="1999"/>
+      <outline text="Kernighan, Brian W." author="Brian W. Kernighan" title="The UNIX Programming Environment" publisher="Prentice Hall Computer Books" isbn="013937681X" year="1984"/>
+      <outline text="Kifer, Michael" author="Michael Kifer, Scott A. Smolka" title="Introduction to Operating System Design and Implementation" publisher="Springer Verlag" isbn="9781846288425" year="2007"/>
+      <outline text="Kleinberg, Jon" author="Jon Kleinberg, Eva Tardoz" title="Algorithm Design" publisher="Pearson Addison Wesley" isbn="0321295358" year="2006"/>
+      <outline text="Kleppe, Anneke" author="Anneke Kleppe" title="Software Language Engineering" publisher="Addison Wesley" isbn="0321553454" year="2009"/>
+      <outline text="Knaster, Barbara" author="Barbara Knaster" title="Presenting Magic Cap: A Guide to General Magic's Revolutionary Communicastor Software" publisher="Addison Wesley Longman" isbn="020140740X" year="1994"/>
+      <outline text="Knuckles, Craig D." author="Craig D. Knuckles, David S. Yuen" title="Web Applications: Concepts and Real World Design" publisher="Wiley Text Books" isbn="0471204587" year="2003"/>
+      <outline text="Knudsen, J. L." author="J. L. Knudsen, M. Lofgren, O. Lehrmann-Madsen, B. Magnusson, Ole L. Madsen" title="Object-Oriented Environments: The Mjolner Approach" publisher="Prentice Hall" isbn="0130092916" year="1994"/>
+      <outline text="Knudsen, Jonathan B." author="Jonathan B. Knudsen" title="The Unofficial Guide to LEGO MINDSTORMS Robots" publisher="O'Reilly &amp; Associates" isbn="1565926927" year="1999"/>
+      <outline text="Knuth, Donald E." author="Donald E. Knuth" title="Computers &amp; Typesetting, Volume B: TeX: The Program" publisher="Addison-Wesley Pub Co" isbn="0201134373" year="1986"/>
+      <outline text="Knuth, Donald E." author="Donald E. Knuth" title="Computers &amp; Typesetting, Volume C: The Metafont Book" publisher="Addison-Wesley Pub Co" isbn="0201134454" year="1986"/>
+      <outline text="Knuth, Donald E." author="Donald E. Knuth" title="Computers &amp; Typesetting, Volume D: Metafont: The Program" publisher="Addison-Wesley Pub Co" isbn="0201134381" year="1986"/>
+      <outline text="Knuth, Donald E." author="Donald E. Knuth" title="Computers &amp; Typesetting, Volume E: Computer Modern Typefaces" publisher="Addison-Wesley Pub Co" isbn="0201134462" year="1986"/>
+      <outline text="Knuth, Donald E." author="Donald E. Knuth" title="Literate Programming" publisher="Cambridge University Press" isbn="0937073806" year="1992"/>
+      <outline text="Knuth, Donald E." author="Donald E. Knuth" title="Tex and Metafont: New Directions in Typesetting" publisher="Digital Press" isbn="0932376029" year="1979"/>
+      <outline text="Knuth, Donald E." author="Donald E. Knuth" title="TeXbook" publisher="Addison-Wesley Pub Co" isbn="0201134489" year="1984"/>
+      <outline text="Knuth, Donald E." author="Donald E. Knuth" title="The Art of Computer Programming 1: Fundamental Algorithms" publisher="Addison Wesley" isbn="0201038099" year="1973"/>
+      <outline text="Knuth, Donald E." author="Donald E. Knuth" title="The Art of Computer Programming 2: Seminumerical Algorithms" publisher="Addison-Wesley" year="1969"/>
+      <outline text="Knuth, Donald E." author="Donald E. Knuth" title="The Art of Computer Programming 3: Sorting and Searching" publisher="Pearson Addison Wesley" isbn="020103803X" year="1973"/>
+      <outline text="Knuth, Donald E." author="Donald E. Knuth" title="The Stanford GraphBase: A Platform for Combinatorial Computing" publisher="Addison-Wesley Pub Co" isbn="0201542757" year="1993"/>
+      <outline text="Kochan, Stephen G." author="Stephen G. Kochan" title="Beginning AppleScript" publisher="Wrox/Wiley" isbn="0764574000" year="2005"/>
+      <outline text="Koenig, Andrew" author="Andrew Koenig" title="C Traps and Pitfalls" publisher="Addison-Wesley Pub Co" isbn="0201179288" year="1989"/>
+      <outline text="Köhn, Carsten" author="Carsten Köhn" title="Bildanalyse und Bilddatenkompression" publisher="Hanser Fachbuchverlag" isbn="3446185038" year="1996"/>
+      <outline text="König, Dierk" author="Dierk König et al." title="Groovy in Action" publisher="Manning" isbn="1932394842" year="2007"/>
+      <outline text="Kopp, Herbert" author="Herbert Kopp" title="Compilerbau" publisher="Hanser Fachbuchverlag" isbn="3446152458" year="1988"/>
+      <outline text="Korienek, Gene" author="Gene Korienek et al." title="Squeak -- A Quick Trip To ObjectLand" publisher="Addison-Wesley" isbn="0201731142" year="2001"/>
+      <outline text="Krasner, Glen" author="Glen Krasner, Glenn Krasner" title="Smalltalk-80: Bits of History, Words of Advice" publisher="Pearson Addison Wesley" isbn="0201116693" year="1983"/>
+      <outline text="Kredel, Heinz" author="Heinz Kredel, Akitoshi Yoshida" title="Thread- und Netzwerk-Programmierung mit Java" publisher="dpunkt-Verlag, Heidelberg" isbn="3932588282"/>
+      <outline text="Krishnamurthy, Balachander" author="Balachander Krishnamurthy" title="Practical Reusable Unix Software" publisher="John Wiley &amp; Sons" isbn="0471058076" year="1995"/>
+      <outline text="Krol, Ed" author="Ed Krol, Paula M Ferguson" title="The Whole Internet for Windows 95: User's Guide &amp; Catalog" publisher="Longman Higher Education" isbn="1565920252" year="1992"/>
+      <outline text="Kruse, Robert L." author="Robert L. Kruse, Bruce P. Leung, Clovis L. Tondo" title="Data Structures and Program Design in C" publisher="Prentice Hall" isbn="0137256493" year="1991"/>
+    </outline>
+    <outline text="L">
+      <outline text="Laffra, Chris" author="Chris Laffra" title="Advanced Java: Idioms, Pitfalls, Styles and Programming Tips" publisher="Prentice Hall Computer Books" isbn="0135343488" year="1997"/>
+      <outline text="Lalonde, Wilf R." author="Wilf R. Lalonde, John R. Pugh" title="Inside Smalltalk (Volume 1)" publisher="Prentice Hall" isbn="0134684141" year="1990"/>
+      <outline text="Lamport, Leslie" author="Leslie Lamport" title="LaTeX: A Document Preparation System (2nd Edition)" publisher="Addison-Wesley Pub Co" isbn="0201529831" year="1994"/>
+      <outline text="Lea, Doug" author="Doug Lea" title="Concurrent Programming in Java(TM): Design Principles and Pattern (2nd Edition)" publisher="Addison-Wesley Pub Co" isbn="0201310090" year="1999"/>
+      <outline text="Ledgard, Henry D." author="Henry D. Ledgard" title="The Little Book of Object-Oriented Programming" publisher="Pearson Education POD" isbn="013396342X" year="1995"/>
+      <outline text="Ledgard, Henry F. and" author="Henry F. and Ledgard" title="Pascal With Style: Programming Proverbs" publisher="SAMS" isbn="0810451247" year="1980"/>
+      <outline text="Lee, Wei-Meng" author="Wei-Meng Lee" title="C# 2008 Programmer's Reference" publisher="Wrox" isbn="9780470285817" year="2009"/>
+      <outline text="Leffler, Samuel J." author="Samuel J. Leffler, Marshall Kirk McKusick, Samuel Leffler, Quarterm, Michael Karels, Eric P. Allman" title="Design 4.3 BSD UNIX?" publisher="Pearson Addison Wesley" isbn="0201061961" year="1989"/>
+      <outline text="Lehmann, Eckard" author="Eckard Lehmann, Heiko Strassburg, Tino Riethmüller" title="Das SoundBlaster-Profibuch. Hardware-Grundlagen und Programmierung der SoundBlaster-Karten" isbn="3893195831" year="1993"/>
+      <outline text="Levitin, Anany" author="Anany Levitin" title="The Design &amp; Analysis of Algorithms (2nd ed)" publisher="Addison-Wesley" isbn="0321358287" year="2007"/>
+      <outline text="Levy, David N. L." author="David N. L. Levy" title="Computer Gamesmanship: The Complete Guide to Creating and Structuring Intelligent Games Programs" publisher="Simon &amp; Schuster (Paper)" isbn="0671495321" year="1984"/>
+      <outline text="Lewis, John" author="John Lewis, William Loftus" title="Java Software Solutions: Foundations of Program Design (6th ed.)" publisher="Addison Wesley" isbn="0321532058" year="2009"/>
+      <outline text="Lewis, John" author="John Lewis, Joseph Chase" title="Java Software Structures" publisher="Pearson Addison Wesley" isbn="0201788780" year="2003"/>
+      <outline text="Liang, Y. Daniel" author="Y. Daniel Liang, Y Daniel Liang" title="Introduction to Java Programming (3rd Edition)" publisher="Prentice Hall" isbn="013031997X" year="2000"/>
+      <outline text="Liberty, Jesse" author="Jesse Liberty" title="Programming C# (4th Edition)" publisher="O'Reilly &amp; Associates" isbn="160033069X" year="2005"/>
+      <outline text="Libes, Don" author="Don Libes, Sandy Ressler" title="Life With Unix: A Guide for Everyone" publisher="Prentice Hall Computer Books" isbn="0135366577" year="1989"/>
+      <outline text="Libes, Don" author="Don Libes" title="Obfuscated C and Other Mysteries" publisher="John Wiley &amp; Sons" isbn="0471578053" year="1992"/>
+      <outline text="Lindholm, Tim" author="Tim Lindholm, Frank Yellin" title="Java: Die Spezifikation der virtuellen Maschine" publisher="Addison-Wesley, München" isbn="3827310458" year="1997"/>
+      <outline text="Lions, J." author="J. Lions" title="Unix Operating System Source Code Level 6" year="1977"/>
+      <outline text="Liu, M.L." author="M.L. Liu" title="Distributed Computing: Principles and Applications" publisher="Pearson Addison Wesley" isbn="0201796449" year="2003"/>
+      <outline text="Louden, Kenneth C." author="Kenneth C. Louden" title="Programming Languages" publisher="PWS Publishing Co." isbn="0534953417" year="2002"/>
+      <outline text="Love, Tom" author="Tom Love, Richard S. Wiener" title="Object Lessons: Lessons Learned in Object-Oriented Development Projects" publisher="SIGNATURE SOUNDS RECORDING" isbn="0134724321" year="1997"/>
+      <outline text="Lunt, Karl" author="Karl Lunt" title="Build Your Own Robot!" publisher="A K Peters Ltd" isbn="1568811020" year="2000"/>
+    </outline>
+    <outline text="M">
+      <outline text="Madsen, Ole Lehrmann" author="Ole Lehrmann Madsen, Birger Moller-Pedersen, Kristen Nygaard, B. P. Miller" title="Object-Oriented Programming in the Beta Programming Language" publisher="Assn for Computing Machinery" isbn="0201624303" year="1993"/>
+      <outline text="Magnan, Robert" author="Robert Magnan, ed." title="147 Practical Tips for Teaching Professors" publisher="Atwood Publishing" isbn="1891859013" year="1990"/>
+      <outline text="Mahkorn, Siegfried" author="Siegfried Mahkorn" title="Zweisprachiges Register von Benennungen" publisher="GMD" year="1989"/>
+      <outline text="Marcotty, Michael" author="Michael Marcotty, Henry F. Ledgard" title="Programming Language Landscape" publisher="Sra" isbn="0574219455" year="1986"/>
+      <outline text="Martin, Fred G." author="Fred G. Martin" title="Robotic Explorations: An Introduction to Engineering Through Design" publisher="Prentice Hall" isbn="0130895687" year="2000"/>
+      <outline text="Maurer, Hermann" author="Hermann Maurer" title="Hyper-Gnow Hyperwave: The Next Generation Web Solution" publisher="Longman Group United Kingdom" isbn="0201403463" year="1996"/>
+      <outline text="McCleland, Deke" author="Deke McCleland, Craig Danuloff, Deke McClelland" title="Desktop Publishing Type and Graphics: A Comprehensive Handbook" publisher="Harcourt" isbn="0156252988" year="1987"/>
+      <outline text="McComb, Gordon" author="Gordon McComb" title="Robot Builder's Bonanza" publisher="McGraw-Hill/TAB Electronics" isbn="0071362967" year="2000"/>
+      <outline text="McCorduck, Pamela" author="Pamela McCorduck" title="Machines Who Think" isbn="0716710722"/>
+      <outline text="McDonnell, Eugene E." author="Eugene E. McDonnell" title="A Source Book in Apl: Papers by Adin D. Falkoff and Kenneth E. Iverson" publisher="A P L Pr" isbn="0917326105" year="1981"/>
+      <outline text="McDougall, Anne" author="Anne McDougall, Tony Adams, Pauline Adams" title="Einstieg in LOGO" publisher="Hanser Fachbuch, Mchn." isbn="3446141219" year="1984"/>
+      <outline text="McIntosh, Jason" author="Jason McIntosh, Chuck Toporek, Chris Stone" title="Mac OS X in a Nutshell" publisher="O'Reilly &amp; Associates" isbn="0596003706" year="2003"/>
+      <outline text="McKeachie, Wilbert James" author="Graham Gibbs, Wilbert James McKeachie" title="Teaching Tips: Strategies, Research, and Theory for College and University Teachers" publisher="Houghton Mifflin Co" isbn="0395903459" year="1998"/>
+      <outline text="McLaughlin, Bratt" author="Brett McLaughlin, David Flanagan" title="Java 5.0 Tiger, A Developer’s Notebook" publisher="O'Reilly &amp; Associates" isbn="0596007388" year="2004"/>
+      <outline text="McLaughlin, Brett" author="Brett McLaughlin" title="Java &amp; XML, 2nd Edition: Solutions to Real-World Problems" publisher="O'Reilly &amp; Associates" isbn="0596001975" year="2001"/>
+      <outline text="McLaughlin, Brett" author="Brett McLaughlin" title="Java and XML Data Binding" publisher="O'Reilly &amp; Associates" isbn="0596002785" year="2002"/>
+      <outline text="Merz, Thomas" author="Peter Schnupp, Thomas Merz" title="PostScript" publisher="Oldenbourg, Mchn." isbn="3486216740" year="1991"/>
+      <outline text="Merz, Thomas" author="Thomas Merz" title="Postscript &amp; Acrobat/Pdf: Applications, Troubleshooting, and Cross-Platform Publishing" publisher="Springer Verlag" isbn="3540608540" year="1996"/>
+      <outline text="Messmer, Hans-Peter" author="Hans-Peter Messmer" title="The Indispensable PC Hardware Book: Your Hardware Questions Answered" publisher="Addison Wesley Publishing Company" isbn="0201624249" year="1994"/>
+      <outline text="Metsker, Steven" author="Steven John Metsker" title="Design Patterns in C#" publisher="Addison-Wesley" isbn="0321126971" year="2004"/>
+      <outline text="Metsker, Steven" author="Steven John Metsker, William A. Wake" title="Design Patterns in Java" publisher="Addison-Wesley" isbn="0321333020" year="2006"/>
+      <outline text="Metsker, Steven John" author="Steven John Metsker" title="Building Parsers With Java" publisher="Addison-Wesley Pub Co" isbn="0201719622" year="2001"/>
+      <outline text="Meyer, Bertrand" author="Bertrand Meyer" title="Object-Oriented Software Construction (2nd Edition)" publisher="Prentice Hall PTR" isbn="0136291554" year="2000"/>
+      <outline text="Meyer, Jerome" author="Jerome Meyer, Stuart Hanlon" title="Fun with the new math" publisher="Fawcett" year="1965"/>
+      <outline text="Michelsen, Klaus" author="Klaus Michelsen" title="C# Primer Plus" publisher="SAMS" isbn="0672321521" year="2001"/>
+      <outline text="Miller" author="Miller" title="Software Tools Sampler" publisher="Longman" isbn="0138219842" year="1987"/>
+      <outline text="Miller, James S." author="James S. Miller, Susann Ragsdale, Jim Miller" title="The Common Language Infrastructure Annotated Standard" publisher="Addison-Wesley Pub Co" isbn="0321154932" year="2003"/>
+      <outline text="Mills, Bruce" author="Bruce Mills" title="Theoretical Introduction to Programming" publisher="Springer" isbn="1846280214" year="2006"/>
+      <outline text="Mitchell, John C." author="John C. Mitchell, Krzysztof Apt" title="Concepts in Programming Languages" publisher="Cambridge University Press" isbn="0521780985" year="2001"/>
+      <outline text="Mittendorfer, Josef" author="Josef Mittendorfer" title="Objektorientierte Programmierung mit Smalltalk/V für Windows" publisher="Addison-Wesley, München" isbn="389319388X" year="1992"/>
+      <outline text="Moore, Margaret" author="Margaret Moore" title="Logo Discoveries" publisher="Creative Publications" isbn="0884882551" year="1984"/>
+      <outline text="Morelli, Ralph" author="Ralph Morelli" title="Java, Java, Java: Object-Oriented Problem Solving" publisher="Prentice Hall" isbn="0130113328" year="2000"/>
+      <outline text="Mössenböck, Hanspeter" author="Hanspeter Mössenböck" title="Objektorientierte Programmierung in Oberon-2" publisher="Springer, Heidelberg" isbn="3540577890" year="1994"/>
+      <outline text="Mühlbacher, Jorg" author="Jorg Mühlbacher, Bernhard Leisch, Brian Kirk, Ulrich Kreuzeder" title="Oberon-2 Programming With Windows" publisher="Springer Verlag" isbn="3540625224" year="1997"/>
+      <outline text="Muldner, Tomasz" author="Tomasz Muldner" title="C++ Programming: With Design Patterns Revealed" publisher="Addison-Wesley Pub Co" isbn="0201722313" year="2001"/>
+    </outline>
+    <outline text="N">
+      <outline text="Nagata, Joe" author="Joe Nagata" title="Joe Nagata's Lego Mindstorms Idea Book" publisher="No Starch Press" isbn="1886411409" year="2001"/>
+      <outline text="Nagel, Christian" author="Christian Nagel et al." title="Professional C# 2005" publisher="Wrox" isbn="0764575341" year="2006"/>
+      <outline text="Negrino, Tom" author="Tom Negrino, Dori Smith" title="JavaScript &amp; AJAX, 7th ed." publisher="Peachpit Press" isbn="0321564081" year="2009"/>
+      <outline text="Nestor, John R." author="John R. Nestor, Joseph M. Newcomer, Paola Giannini, Donald L. Stone" title="Idl: The Language and Its Implementation" publisher="Prentice Hall" isbn="0134502140" year="1989"/>
+      <outline text="Neuburg, Matt" author="Matt Neuburg" title="AppleScript, The Definitive Guide" publisher="O'Reilly &amp; Associates" isbn="0596005571" year="2004"/>
+      <outline text="Nickel, Karl" author="Karl Nickel" title="Palmström als Programmierer" publisher="Hanser" isbn="3446123342" year="1976"/>
+      <outline text="Niederst, Jennifer" author="Jennifer Niederst" title="HTML Pocket Reference" publisher="O'Reilly &amp; Associates" isbn="1565925793" year="1999"/>
+      <outline text="Niemeyer, Pat" author="Pat Niemeyer, Josh Peck, Patrick Niemeyer, Joshua Peck" title="Exploring Java" publisher="O'Reilly &amp; Associates" isbn="1565921844" year="1996"/>
+      <outline text="NN" author="NN" title="Dr. LOGO Benutzerhandbuch" publisher="Markt&amp;Technik" isbn="3890901166"/>
+      <outline text="Nutt, Gary" author="Gary Nutt" title="Operating Systems, Third Edition" publisher="Pearson Addison Wesley" isbn="0201773449" year="2003"/>
+      <outline text="Nutt, Gary J." author="Gary J. Nutt" title="Centralised and Distributed Operating Systems" publisher="Pearson Higher Education" isbn="0131223836" year="1991"/>
+    </outline>
+    <outline text="O">
+      <outline text="O'Quinn, Donnie" author="Donnie O'Quinn, Troy S. Mott" title="Photoshop in a Nutshell: A Desktop Quick Reference" publisher="O'Reilly &amp; Associates" isbn="1565925653" year="1999"/>
+      <outline text="O'Reilly, Tim" author="Tim O'Reilly" title="Tim O'Reilly in a Nutshell" publisher="O’Reilly" year="2004"/>
+      <outline text="Oaks, Scott" author="Scott Oaks" title="Java Security" publisher="O'Reilly &amp; Associates" isbn="1565924037" year="1998"/>
+      <outline text="Oaks, Scott" author="Scott Oaks, Henry Wong" title="Jini in a Nutshell: A Desktop Quick Reference" publisher="O'Reilly &amp; Associates" isbn="1565927591" year="2000"/>
+      <outline text="Okasaki, Chris" author="Chris Okasaki" title="Purely Functional Data Structures" publisher="Cambridge University Press" isbn="0521663504" year="1998"/>
+      <outline text="Onion, Fritz" author="Fritz Onion" title="Essential ASP.NET with Examples in C#" publisher="Addison-Wesley Pub Co" isbn="0201760401" year="2003"/>
+      <outline text="Orfali, Robert" author="Robert Orfali, Dan Harkey, Jeri Edwards, Robert Crfali" title="Essential Client/Server Survival Guide, Second Edition" publisher="John Wiley &amp; Sons" isbn="0471153257" year="1997"/>
+      <outline text="Otte, Randy" author="Randy Otte, Paul Patrick, Mark Roy" title="Understanding Corba" publisher="Prentice Hall PTR" isbn="0134598849" year="1995"/>
+      <outline text="Ousterhout, John K." author="John K. Ousterhout" title="Tcl and the Tk Toolkit" publisher="Addison-Wesley Pub Co" isbn="020163337X" year="1994"/>
+    </outline>
+    <outline text="P">
+      <outline text="Pagan, Frank G." author="Frank G. Pagan" title="Partial Computation and the Construction of Language Processors" publisher="Prentice Hall" isbn="0136514154" year="1991"/>
+      <outline text="Pajari, George" author="George Pajari" title="Writing UNIX Device Drivers" publisher="Addison-Wesley Pub Co" isbn="0201523744" year="1991"/>
+      <outline text="Pakin, Sandra" author="Sandra Pakin" title="APL\360 Reference Manual" publisher="SRA" year="1968"/>
+      <outline text="Papert, Seymour A." author="Seymour A. Papert, John Sculley" title="Mindstorms: Children, Computers, and Powerful Ideas" publisher="Basic Books" isbn="0465046746" year="1999"/>
+      <outline text="Pappas, Chris H." author="Chris H. Pappas, William H. Murray" title="C# Essentials" publisher="Prentice Hall PTR" isbn="013093285X" year="2001"/>
+      <outline text="Pawson, Dave" author="Dave Pawson" title="XSL FO" publisher="O'Reilly &amp; Associates" isbn="0596003552" year="2002"/>
+      <outline text="Peitgen, Heinz-Otto" author="Heinz-Otto Peitgen, Peter H. Richter" title="The Beauty of Fractals. Images of Complex Dynamical Systems" publisher="Springer Verlag" isbn="3540158510" year="2000"/>
+      <outline text="Peltzer, Dwight" author="Dwight Peltzer" title="XML: Language Mechanics and Applications" publisher="Pearson Addison Wesley" isbn="0201771683" year="2003"/>
+      <outline text="Perdue, David J." author="David J. Perdue" title="Competitive Mindstorms" publisher="apress" isbn="1590593758" year="2004"/>
+      <outline text="Pesce, Mark" author="Mark Pesce" title="VRML. Cyberspace-Welten erkunden und erschaffen" publisher="Hanser Fachbuch" isbn="3446188894" year="1997"/>
+      <outline text="Petkovic, Dusan" author="Dusan Petkovic" title="Informix. Das relationale Datenbanksystem" publisher="Addison-Wesley, München" isbn="3893191828" year="1991"/>
+      <outline text="Pew, John A." author="John A. Pew, Pew &amp; Sunsoft Books" title="Instant Java" publisher="Prentice Hall PTR" isbn="0132722879" year="1996"/>
+      <outline text="Philipp, Siegfried" author="Siegfried Philipp" title="Midi Kompendium" publisher="Verlag Kapehl&amp;Philipp" isbn="3925020004" year="1984"/>
+      <outline text="Pialorsi, Paolo" author="Paolo Pialorsi, Marco Russo" title="Introducing Microsoft LinQ" publisher="Microsoft Press" isbn="0735623910" year="2007"/>
+      <outline text="Pialorsi, Paolo" author="Paolo Pialorsi, Marco Russo" title="Programming Microsoft LinQ" publisher="Microsoft Press" isbn="0735624003" year="2008"/>
+      <outline text="Pierce, Benjamin C." author="Benjamin C. Pierce" title="Types and Programming Languages" publisher="MIT Press" isbn="0262162091" year="2002"/>
+      <outline text="Pinkert, James R." author="James R. Pinkert, Larry L. Wear" title="Operating Systems" publisher="Longman Higher Education Division (a Pearson Education company)" isbn="013638370X" year="1988"/>
+      <outline text="Pipkin, Donald L." author="Donald L. Pipkin" title="Halting the Hacker" publisher="Prentice Hall" isbn="013243718X" year="1997"/>
+      <outline text="Plauger, P. J." author="P. J. Plauger" title="The Standard C Library" publisher="Prentice Hall" isbn="0131315099" year="1992"/>
+      <outline text="Plum, Thomas" author="Thomas Plum" title="Das C-Lernbuch" publisher="Hanser Fachbuch" isbn="3446141650"/>
+      <outline text="Plum, Thomas" author="Thomas Plum" title="Learning to Program in C" publisher="Plum Hall, Inc." isbn="0135278473" year="1985"/>
+      <outline text="Poetzsch-Heffter, Arnd" author="Arnd Poetzsch-Heffter" title="Konzepte objektorientierter Programmierung" publisher="Springer Verlag" isbn="3540667938" year="2000"/>
+      <outline text="Pogue, David" author="David Pogue" title="GarageBand: The Missing Manual" publisher="O'Reilly &amp; Associates" isbn="0596006950" year="2004"/>
+      <outline text="Pogue, David" author="David Pogue, Derrick Story, Joseph Schorr" title="iPhoto 4: The Missing Manual" publisher="O'Reilly &amp; Associates" isbn="0596006926" year="2004"/>
+      <outline text="Pogue, David" author="David Pogue" title="Mac OS X: The Missing Manual (Panther ed)" publisher="O’Reilly" isbn="0596006152" year="2003"/>
+      <outline text="Pohl, Ira" author="Ira Pohl" title="C# by Dissection" publisher="Pearson Addison Wesley" isbn="0201876671" year="2002"/>
+      <outline text="Pratt, Terrence" author="Terrence W. Pratt, Marvin V. Zelkowitz" title="Programming Languages, Design and Implementation, 4th ed" publisher="Prentice Hall" isbn="0130276782" year="2001"/>
+    </outline>
+    <outline text="Q">
+      <outline text="Quin, Liam" author="Liam Quin" title="Open Source XML Database Toolkit" publisher="Wiley" isbn="0471375225" year="2000"/>
+    </outline>
+    <outline text="R">
+      <outline text="Rammer, Ingo" author="Ingo Rammer" title="Advanced .NET Remoting" publisher="aPress" isbn="1590590252" year="2002"/>
+      <outline text="Rechenberg, P." author="P. Rechenberg, H. Mössenböck" title="Ein Compiler-Generator für Mikrocomputer, 2nd ed" publisher="Hanser" isbn="3446153500" year="1988"/>
+      <outline text="Rector, Brent" author="Brent Rector" title="Introducing Longhorn for Developers" publisher="Microsoft" year="2004"/>
+      <outline text="Rector, Russell" author="Russell Rector, George Alexy" title="Eighty-Eighty-Six Book" publisher="McGraw-Hill Osborne Media" isbn="0931988292" year="1982"/>
+      <outline text="Reilly, David" author="David Reilly, Michael Reilly" title="Java(TM) Network Programming and Distributed Computing" publisher="Addison-Wesley Pub Co" isbn="0201710374" year="2002"/>
+      <outline text="Reiser, Martin" author="Martin Reiser" title="The Oberon System: User Guide and Programmer's Manual" publisher="Pearson Addison Wesley" isbn="0201544229" year="1991"/>
+      <outline text="Ressler, Sanford" author="Sanford Ressler, Sandy Ressler" title="The Art of Electronic Publishing: The Internet and Beyond" publisher="Prentice Hall Computer Books" isbn="0134881729" year="1999"/>
+      <outline text="Rhodes, Neil" author="Neil Rhodes, Julie McKeehan, Mark Stone, Havig" title="Palm Programming: The Developer's Guide" publisher="O'Reilly &amp; Associates" isbn="1565925254" year="1999"/>
+      <outline text="Richter, Jeffrey" author="Jeffrey Richter" title="Applied Microsoft .NET Framework Programming" publisher="Microsoft Press" isbn="0735614229" year="2002"/>
+      <outline text="Roberts, Scott" author="Scott Roberts, Hagen Green" title="Designing Forms for Microsoft Office InfoPath and Forms Services 2007" publisher="Addison-Wesley" isbn="0321410599" year="2007"/>
+      <outline text="Rochkind, Marc J." author="Marc J. Rochkind" title="Advanced C Programming for Displays" publisher="Prentice Hall Computer Books" isbn="0130102407" year="1988"/>
+      <outline text="Rochkind, Marc J." author="Marc J. Rochkind" title="Advanced Unix Programming" publisher="Pearson PTP" isbn="0130118001" year="1985"/>
+      <outline text="Rochkind, Marc J." author="Marc J. Rochkind" title="UNIX-Programmierung für Fortgeschrittene" publisher="Hanser Fachbuch" isbn="3446152024"/>
+      <outline text="Roosta, Seyed H." author="Seyed H. Roosta" title="Foundations of Programming Languages With Infotrac: Design and Implementation" publisher="Brooks Cole" isbn="0534393039" year="2002"/>
+      <outline text="Rose, Marshall T." author="Marshall T. Rose" title="The Simple Book: An Introduction to Management of TCP/IP-based Internets" publisher="Prentice Hall" isbn="0138126119" year="1990"/>
+      <outline text="Rosen, Saul" author="Saul Rosen (ed.)" title="Programming Systems and Languages" publisher="McGraw-Hill" year="1967"/>
+      <outline text="Rosenberger, Jeremy L." author="Jeremy L. Rosenberger" title="Teach Yourself Corba in 14 Days" publisher="SAMS" isbn="0672312085" year="1998"/>
+      <outline text="Rubinsky, Yuri" author="Yuri Rubinsky, Murray Maloney" title="Sgml on the Web: Small Steps Beyond H.T.M.L." publisher="Prentice Hall Computer Books" isbn="0135199840" year="1997"/>
+      <outline text="Russell, Debby" author="Debby Russell, Sr. G.T Gangemi" title="Computer Security Basics" publisher="O'Reilly &amp; Associates" isbn="0937175714" year="1991"/>
+      <outline text="Russell, Stuart J." author="Stuart J. Russell, Peter Norvig" title="Artificial Intelligence: A Modern Approach (2nd Edition)" publisher="Prentice Hall" isbn="0137903952" year="2002"/>
+    </outline>
+    <outline text="S">
+      <outline text="Salus, Peter H." author="Peter H. Salus" title="A Quarter Century of UNIX" publisher="Addison-Wesley Pub Co" isbn="0201547775" year="1994"/>
+      <outline text="Salus, Peter H." author="Peter H. Salus" title="Casting the Net: From ARPANET to INTERNET and Beyond" publisher="Addison-Wesley Pub Co" isbn="0201876744" year="1995"/>
+      <outline text="Santifaller, Michael" author="Michael Santifaller" title="TCP/IP und ONC/NFS in Theorie und Praxis. UNIX in Lokalen Netzen" isbn="3893195319" year="1993"/>
+      <outline text="Sato, Jin" author="Jin Sato" title="Jin Sato's Lego Mindstorms: The Master's Technique" publisher="No Starch Press" isbn="1886411565" year="2002"/>
+      <outline text="Savitch, Walter" author="Walter Savitch" title="Java: An Introduction to Computer Science &amp; Programming (2nd Edition)" publisher="Prentice Hall" isbn="0130316970" year="2000"/>
+      <outline text="Schalkoff, Robert" author="Robert J. Schalkoff" title="Programming Languages and Methodologies" publisher="Jones and Bartlett" isbn="0763740594" year="2007"/>
+      <outline text="Scheller, Martin" author="Martin Scheller et al." title="Internet" publisher="Springer" isbn="3540579680" year="1994"/>
+      <outline text="Schirmer, Claus" author="Claus Schirmer" title="Die Programmiersprache C" publisher="Hanser Fachbuchverlag" isbn="3446165614"/>
+      <outline text="Schirmer, Claus" author="Claus Schirmer" title="TROFF-Programmierung" publisher="Hanser Fachbuchverlag" isbn="3446156496"/>
+      <outline text="Schmelzer, Ron" author="Ron Schmelzer, Travis Vandersypen, Jason Bloomberg, Madhu Siddalingaiah, Sam Hunting, Michael Qualls, Chad Darby, David Houlding, Diane Kennedy" title="XML and Web Services Unleashed" publisher="Sams" isbn="0672323419" year="2002"/>
+      <outline text="Schmidt, Friedhelm" author="Friedhelm Schmidt, J. Michael Schultz" title="The Scsi Bus and Ide Interface: Protocols, Applications and Programming" publisher="Addison-Wesley Pub Co" isbn="0201422840" year="1995"/>
+      <outline text="Schmitt, Franz J." author="Franz J. Schmitt" title="Praxis des Compilerbaus" publisher="Hanser Fachbuch" isbn="3446165177" year="1992"/>
+      <outline text="Schmitz, Lothar" author="Lothar Schmitz" title="Syntaxbasierte Programmierwerkzeuge" publisher="Teubner" isbn="3519021404" year="1995"/>
+      <outline text="Schneier, Bruce" author="Bruce Schneier" title="Applied Cryptography" publisher="Wiley" isbn="0471117099" year="1996"/>
+      <outline text="Schnupp, Peter" author="Peter Schnupp" title="Moderne Programmiersprachen" publisher="Oldenbourg" isbn="3486215221" year="1991"/>
+      <outline text="Schnupp, Peter" author="Peter Schnupp" title="Prolog" publisher="Hanser" isbn="3446145826" year="1986"/>
+      <outline text="Schnupp, Peter" author="Peter Schnupp" title="Von C zu C" publisher="Hanser Fachbuchverlag" isbn="3446159452"/>
+      <outline text="Schreiner, Axel T" author="Axel T Schreiner" title="Computer Calculus" publisher="Stipes, Champaign" year="2003"/>
+      <outline text="Schreiner, Axel T" author="Axel T Schreiner" title="Introduction to Compiler Construction With Unix" publisher="Prentice Hall" isbn="0134743962" year="1985"/>
+      <outline text="Schreiner, Axel T." author="Axel T. Schreiner" title="Introduction to Compiler Construction With Unix" publisher="Keigaku Publishing, Tokyo" isbn="4766502263" year="2003"/>
+      <outline text="Schreiner, Axel T." author="Axel T. Schreiner" title="Using C with curses, lex and yacc" publisher="Toppan" isbn="4810185125" year="2003"/>
+      <outline text="Schreiner, Axel-Tobias" author="Axel-Tobias Schreiner" title="C-Praxis mit curses, lex und yacc" publisher="Hanser Fachbuchverlag" isbn="3446153918"/>
+      <outline text="Schreiner, Axel-Tobias" author="Axel-Tobias Schreiner" title="Compiler bauen mit UNIX" publisher="Hanser Fachbuchverlag" isbn="3446143599"/>
+      <outline text="Schreiner, Axel-Tobias" author="Axel-Tobias Schreiner" title="Objektorientierte Programmierung mit ANSI C" publisher="Hanser Fachbuch" isbn="3446174265" year="1994"/>
+      <outline text="Schreiner, Axel-Tobias" author="Axel-Tobias Schreiner" title="Professor Schreiners UNIX-Sprechstunde" publisher="Hanser Fachbuchverlag" isbn="3446148949"/>
+      <outline text="Schreiner, Axel-Tobias" author="Axel-Tobias Schreiner" title="Systemprogrammierung in UNIX, Tl.1, Werkzeuge" isbn="3519024705"/>
+      <outline text="Schreiner, Axel-Tobias" author="Axel-Tobias Schreiner" title="Systemprogrammierung in UNIX, Tl.2, Techniken" isbn="3519024713"/>
+      <outline text="Schreiner, Axel-Tobias" author="Axel-Tobias Schreiner" title="Using C With Curses, Lex, and Yacc: Building a Window Shell for Unix System V" publisher="Prentice Hall" isbn="0139328645" year="1990"/>
+      <outline text="Schulman, Andrew" author="Andrew Schulman" title="Undocumented DOS" publisher="Addison Wesley Publishing Company" isbn="0201570645" year="1990"/>
+      <outline text="Scott, Michael" author="Michael L. Scott" title="Programming Language Pragmatics, 2nd ed" publisher="Morgan Kaufmann" isbn="0126339511" year="2006"/>
+      <outline text="Sebesta, Robert" author="Robert W. Sebesta" title="Concepts of Programming Languages (8th ed)" publisher="Addison-Wesley" isbn="0321493621" year="2008"/>
+      <outline text="Sebesta, Robert W." author="Robert W. Sebesta" title="Programming the World Wide Web (2nd Edition)" publisher="Pearson Addison Wesley" isbn="0321149459" year="2002"/>
+      <outline text="Sedgewick, Robert" author="Robert Sedgewick" title="Algorithms in C, part 1..4, 3rd ed" publisher="Addison-Wesley" isbn="0201314525" year="1998"/>
+      <outline text="Sedgewick, Robert" author="Robert Sedgewick" title="Algorithms in C, part 5, 3rd ed" publisher="Addison-Wesley" isbn="0201316633" year="2002"/>
+      <outline text="Sestoft, Peter" author="Peter Sestoft, Henrik I. Hansen" title="C# Precisely" publisher="MIT Press" isbn="0262693178" year="2004"/>
+      <outline text="Sestoft, Peter (2nd ed)" author="Peter Sestoft" title="Java Precisely" publisher="MIT Press" isbn="0262693259" year="2005"/>
+      <outline text="Sethi, Ravi" author="Ravi Sethi" title="Programming Languages: Concepts and Constructs, Second Edition" publisher="Addison-Wesley Pub Co" isbn="0201590654" year="1995"/>
+      <outline text="Sharp, John" author="John Sharp, Andy Longshaw, Peter Roxburgh" title="Microsoft Visual J# .NET (Core Reference)" publisher="Microsoft Press" isbn="0735615500" year="2002"/>
+      <outline text="Shaw, Mary" author="Mary Shaw, David Garlan" title="Software Architecture: Perspectives on an Emerging Discipline" publisher="Prentice Hall" isbn="0131829572" year="1996"/>
+      <outline text="Sherwood, Bruce" author="Bruce Sherwood" title="The TUTOR Language" publisher="Control Data" isbn="0918852005" year="1977"/>
+      <outline text="Sierra, Kathy" author="Kathy Sierra &amp; Bert Bates" title="Head First EJB" publisher="O'Reilly &amp; Associates" isbn="0596005717" year="2003"/>
+      <outline text="Silberschatz, Abraham" author="Abraham Silberschatz, Peter Baer Galvin, Greg Gagne" title="Operating System Concepts (8th ed)" publisher="John Wiley &amp; Sons" isbn="9780470128725" year="2009"/>
+      <outline text="Silberschatz, Abraham" author="Abraham Silberschatz, Peter Baer Galvin, Greg Gagne" title="Operating Systems Concepts with Java" publisher="Wiley" isbn="0471489050" year="2003"/>
+      <outline text="Simpson, Bruce" author="Bruce Simpson, John D. Mitchell, Brian Christeson, A. Rehan Zaide, Jonathan M. Levine, Jonathan Levine" title="Making Sense of Java" publisher="Prentice Hall PTR" isbn="0132632942" year="1996"/>
+      <outline text="Simpson, John E." author="John E. Simpson" title="XPath and XPointer" publisher="O'Reilly &amp; Associates" isbn="0596002912" year="2002"/>
+      <outline text="Singhal, Mukesh" author="Mukesh Singhal, Niranjan G. Shivaratri" title="Advanced Concepts in Operating Systems" publisher="McGraw-Hill" isbn="007057572X" year="1994"/>
+      <outline text="Skiena, Steven" author="Steven S. Skiena, Miguel A. Revilla" title="Programming Challenges" publisher="Springer" isbn="0387001638" year="2003"/>
+      <outline text="Skillin, Marjorie E." author="Marjorie E. Skillin" title="Words into Type" publisher="Pearson PTP" isbn="0139642625" year="1974"/>
+      <outline text="Skonnard, Aaron" author="Aaron Skonnard, Martin Gudgin" title="Essential XML Quick Reference: A Programmer's Reference to XML, XPath, XSLT, XML Schema, SOAP, and More" publisher="Addison-Wesley Pub Co" isbn="0201740958" year="2001"/>
+      <outline text="Slimick, John" author="John Slimick" title="Classical Compiler Construction" publisher="CS Dept. New Mexico Inst. of Mining and Technology" year="1973"/>
+      <outline text="Spivak, Michael D" author="Michael D Spivak" title="Joy of TEX: Gourmet Guide to Typesetting with the AMS-TEX Macro Package" publisher="Addison-Wesley" isbn="0201136228" year="1987"/>
+      <outline text="Spong, Mark" author="Mark W. Spong, Seth Hutchinson, M. Vidyasagar" title="Robot Modeling and Control" publisher="Wiley" isbn="0471649902" year="2006"/>
+      <outline text="Sridharan, Prashant" author="Prashant Sridharan, Bill Rieken, Laraine Peterson" title="Advanced Java Networking" publisher="Prentice Hall PTR" isbn="0137491360" year="2000"/>
+      <outline text="Stallings, William" author="William Stallings" title="Operating Systems : Internals and Design Principles (6th Edition)" publisher="Prentice Hall" isbn="0136006329" year="2009"/>
+      <outline text="Stevens, W. Richard" author="Gary R. Wright, W. Richard Stevens" title="The Implementation (TCP/IP Illustrated, Volume 2)" publisher="Addison-Wesley Pub Co" isbn="020163354X" year="1995"/>
+      <outline text="Stevens, W. Richard" author="W. Richard Stevens" title="The Protocols (TCP/IP Illustrated, Volume 1)" publisher="Addison-Wesley Pub Co" isbn="0201633469" year="1993"/>
+      <outline text="Stockmayer, Christoph" author="Christoph Stockmayer" title="Tips und Tricks zu UNIX, C und C++" publisher="Hanser Fachbuch" isbn="3446182020"/>
+      <outline text="Straker, David" author="David Straker" title="C Style: Standards and Guidelines: Defining Programming Standards for Professional C Programmers" publisher="Prentice Hall" isbn="0131168983" year="1992"/>
+      <outline text="Stroustrup, Bjarne" author="Bjarne Stroustrup" title="The C++ Programming Language" publisher="Addison-Wesley Pub Co" isbn="0201539926" year="1991"/>
+      <outline text="Stroustrup, Bjarne" author="Bjarne Stroustrup" title="The Design and Evolution of C++" publisher="Addison-Wesley Pub Co" isbn="0201543303" year="1994"/>
+      <outline text="Stutz, David" author="David Stutz, Ted Neward, Geoff Shilling" title="Shared Source CLI Essentials" publisher="O'Reilly &amp; Associates" isbn="059600351X" year="2003"/>
+    </outline>
+    <outline text="T">
+      <outline text="Tanenbaum, Andrew S." author="Andrew S. Tanenbaum" title="Betriebssysteme" publisher="Hanser Fachbuch, Mchn." isbn="3446152687"/>
+      <outline text="Tanenbaum, Andrew S." author="Andrew S. Tanenbaum" title="Computer-Netzwerke" publisher="VMI Buch AG, Bonn" isbn="3925328793" year="1992"/>
+      <outline text="Tanenbaum, Andrew S." author="Andrew S. Tanenbaum, Maarten Van Steen" title="Distributed Systems (2nd Edition)" publisher="Prentice Hall" isbn="0132392275" year="2007"/>
+      <outline text="Tanenbaum, Andrew S." author="Tanenbaum et al." title="MINIX MANUAL ATARI ST" publisher="Longman Higher Education Division (a Pearson Education company)" isbn="0135844347" year="1990"/>
+      <outline text="Tanenbaum, Andrew S." author="Andrew S. Tanenbaum" title="MINIX-Leitfaden und kommentierter Programmtext" publisher="Hanser Fachbuch, Mchn." isbn="3446152695"/>
+      <outline text="Tanenbaum, Andrew S." author="Andrew S. Tanenbaum" title="Modern Operating Systems (3rd Edition)" publisher="Prentice Hall" isbn="013501302X" year="2008"/>
+      <outline text="Tanenbaum, Andrew S." author="Andrew S. Tanenbaum" title="Operating Systems, Design and Implementation (3rd Edition)" publisher="Pearson Higher Education" isbn="0136372570" year="1987"/>
+      <outline text="Tanenbaum, Andrew S." author="Andrew S. Tanenbaum" title="Structured Computer Organization" publisher="Pearson Higher Education" isbn="0138528721" year="1990"/>
+      <outline text="Taylor, Art" author="Art Taylor" title="Jdbc Developer's Resource: Database Programming on the Internet" publisher="Prentice Hall Computer Books" isbn="0138423520" year="1997"/>
+      <outline text="Tenenbaum, Aaron M." author="Aaron M. Tenenbaum" title="Data Structures Using C" publisher="Pearson Higher Education" isbn="0132004119" year="1990"/>
+      <outline text="Terry, Patrick D." author="Patrick D. Terry" title="Programming Language Translation: A Practical Approach" publisher="Addison-Wesley Pub Co" isbn="0201180405" year="1987"/>
+      <outline text="Thompson, Simon" author="Simon Thompson" title="The Craft of Functional Programming (2nd ed)" publisher="Addison-Wesley" isbn="0201342758" year="1999"/>
+      <outline text="Thro, Ellen" author="Ellen Thro" title="Künstliches Leben. Eine spielerische Entdeckungsreise" publisher="Addison-Wesley, München" isbn="3893197095"/>
+      <outline text="Tondo, Clovis L." author="Clovis L. Tondo" title="C Answer Book" publisher="Prentice Hall PTR" isbn="0131096532" year="1993"/>
+      <outline text="Tondo, Clovis L." author="Clovis L. Tondo" title="Das C-Lösungsbuch (2. A.)" publisher="Hanser Fachbuch" isbn="3446159460" year="1990"/>
+      <outline text="Touretzky, David S." author="David S. Touretzky" title="Lisp: A Gentle Introduction to Symbolic Computation" publisher="HarperCollins" isbn="006046657X" year="1984"/>
+      <outline text="Tucker , Charles L. III" author="Charles L. Tucker III" title="Fundamentals of Computer Modeling for Polymer Processing" publisher="Hanser Publishers" isbn="3446147047" year="1991"/>
+      <outline text="Tucker, Allen B." author="Allen B. Tucker, Robert E. Noonan" title="Programming Languages, Principles and Paradigms (2nd ed)" publisher="McGraw-Hill" isbn="0072866098" year="2007"/>
+      <outline text="Turbak, Franklyn" author="Franklin Turbak et al." title="Design Concepts in Programming Languages" publisher="MIT Press" isbn="9780262201759" year="2008"/>
+      <outline text="Tzonis, Alexander" author="Alexander Tzonis" title="Hermes die goldene Denkmaschine" publisher="Vieweg, Wiesbaden" isbn="3528088575"/>
+    </outline>
+    <outline text="U"/>
+    <outline text="V">
+      <outline text="Van der Linden, Peter" author="Peter van der Linden" title="Expert C Programming" publisher="Prentice Hall PTR" isbn="0131774298" year="1994"/>
+      <outline text="Van der Linden, Peter" author="Peter van der Linden" title="Just Java" publisher="Prentice Hall Computer Books" isbn="0132723034" year="1997"/>
+      <outline text="Van Gilluwe, Frank" author="Frank Van Gilluwe" title="The Undocumented PC" publisher="Addison Wesley Publishing Company" isbn="0201622777" year="1994"/>
+      <outline text="Vick, Paul" author="Paul Vick" title="The Visual Basic .NET Programming Language" publisher="Addison-Wesley Pub Co" isbn="0321169514" year="2004"/>
+      <outline text="vita nuova" author="vita nuova" title="Plan 9 Programmer's Manual (Manpages)" publisher="vita nuova" isbn="953870189"/>
+      <outline text="vita nuova" author="vita nuova" title="Plan 9 Programmer's Manual (Documents)" publisher="vita nuova" isbn="953870170"/>
+      <outline text="vita nuovo" author="vita nuovo" title="Inferno Programmer's Manual (Documents)" isbn="2003"/>
+      <outline text="vita nuovo" author="vita nuovo" title="Inferno Programmer's Manual (Manpages)" publisher="953870111" isbn="2003"/>
+      <outline text="Vollenweider, Peter" author="Peter Vollenweider" title="EPS-Handbuch" publisher="Hanser Fachbuchverlag" isbn="3446158359"/>
+      <outline text="Vollenweider, Peter" author="Peter Vollenweider" title="PostScript für Workstations. Display-, Color- und Postscript Level 2" isbn="3893194592" year="1992"/>
+      <outline text="Vollenweider, Peter" author="Peter Vollenweider" title="PostScript. Konzeption, Anwendung. Mischen von Text und Grafik" isbn="3446153470" year="1988"/>
+    </outline>
+    <outline text="W">
+      <outline text="Wagner, Bill" author="Bill Wagner" title="Effective C#" publisher="Addison-Wesley Pub Co" isbn="0321245660" year="2005"/>
+      <outline text="Wagner, William" author="William Wagner, Ralph Hilken" title="XML: Introduction to Applied XML--Technologies in Business" publisher="Prentice Hall" isbn="0130338540" year="2002"/>
+      <outline text="Walker, Andy" author="Andy Walker" title="The Unix Environment" publisher="Wiley" year="2003"/>
+      <outline text="Walker, Andy N." author="Andy N. Walker" title="Die UNIX-Welt" publisher="Hanser Fachbuch, Mchn." isbn="3446145192"/>
+      <outline text="Walker, Jearl" author="Jearl Walker" title="Der fliegende Zirkus der Physik" publisher="Oldenbourg, Mchn." isbn="3486214713"/>
+      <outline text="Walker, Jearl" author="Jearl Walker" title="Der fliegende Zirkus der Physik / Antworten" publisher="Oldenbourg, Mchn." isbn="3486214810"/>
+      <outline text="Wall, Larry" author="Larry Wall, Randal L. Schwartz" title="Programming Perl" publisher="O'Reilly &amp; Associates" isbn="0937175641" year="1991"/>
+      <outline text="Walnut Creek Cdrom" author="Walnut Creek Cdrom" title="Font Garden" publisher="Walnut Creek" isbn="1571760962" year="1996"/>
+      <outline text="Walsh, Norman" author="Norman Walsh, Deborah Russell" title="Making Tex Work" publisher="O'Reilly &amp; Associates" isbn="1565920511" year="1994"/>
+      <outline text="Wang, Paul S." author="Paul S. Wang" title="Java With Object Oriented Programming" publisher="Brooks Cole" isbn="0534392768" year="2002"/>
+      <outline text="Washburn, Kevin" author="Kevin Washburn" title="TCP/IP. Aufbau und Betrieb eines TCP/IP-Netzes" publisher="Addison-Wesley, München" isbn="3893196587"/>
+      <outline text="Watson, Karli" author="Karli Watson, David Espinosa, Zach Greenvoss, Jacob Hammer Pedersen, Christian Nagel, Jon D. Reid, Matthew Reynolds, Morgan Skinner, Eric White" title="Beginning Visual C#" publisher="Wrox" isbn="0764543822" year="2002"/>
+      <outline text="Watt, David" author="David Watt" title="Programming Language Processors in Java: Compilers and Interpreters" publisher="Prentice Hall" isbn="0130257869" year="2000"/>
+      <outline text="Watt, David A." author="David A. Watt" title="Programmiersprachen" publisher="Hanser Fachbuchverlag" isbn="3446179925"/>
+      <outline text="Watt, David A." author="David A. Watt" title="Programming Language Design Concepts" publisher="Wiley" isbn="0470853204" year="2004"/>
+      <outline text="Weinberg, Gerald M." author="Gerald M. Weinberg" title="The Psychology of Computer Programming" publisher="Van Nostrand Reinhold Computer" isbn="0442292643" year="1988"/>
+      <outline text="Welch, Brent B." author="Brent B. Welch" title="Practical Programming in Tcl &amp; Tk" publisher="Prentice Hall PTR" isbn="0136168302" year="1997"/>
+      <outline text="Wetherell, Charles" author="Charles Wetherell" title="Etudes for Programmers" publisher="Prentice Hall" isbn="0132918072" year="1978"/>
+      <outline text="Wexelblat, Richard L." author="Richard L. Wexelblat" title="History of Programming Languages" publisher="Academic Press" isbn="0127450408" year="1997"/>
+      <outline text="Wiener, Richard" author="Richard Wiener" title="Modern Software Development Using C#.NET" publisher="Thomson Course Technology" isbn="0619217596" year="2007"/>
+      <outline text="Wilhelm, Reinhard" author="Reinhard Wilhelm" title="Übersetzerbau. Theorie, Konstruktion, Generierung" publisher="Springer, Heidelberg" isbn="3540557040"/>
+      <outline text="Willberg, Hans Peter" author="Hans Peter Willberg" title="Lichtsatz für Werksatz" year="1986"/>
+      <outline text="Winder, Russel" author="Russel Winder" title="Developing Java Software, 2nd Edition" publisher="John Wiley &amp; Sons" isbn="0471606960" year="2000"/>
+      <outline text="Winsor, Janice" author="Janice Winsor" title="The Unix Book of Games" publisher="Prentice Hall PTR" isbn="0134900790" year="1996"/>
+      <outline text="Winston, Patrick Henry" author="Patrick Henry Winston" title="On to Java 1.2 (2nd Edition)" publisher="Addison-Wesley Pub Co" isbn="0201385988" year="1998"/>
+      <outline text="Wirfs-Brock, Rebecca" author="Rebecca Wirfs-Brock, Brian Wilkerson, Lauren Wiener" title="Designing Object-Oriented Software" publisher="Prentice Hall PTR" isbn="0136298257" year="1990"/>
+      <outline text="Wirth, Niklaus" author="Niklaus Wirth" title="Algorithmen und Datenstrukturen mit Modula-2" publisher="Teubner, Stgt." isbn="3519022605"/>
+      <outline text="Wirth, Niklaus" author="Niklaus Wirth" title="Algorithms And Data Structures" publisher="Longman Higher Education Division (a Pearson Education company)" isbn="0130219991" year="1986"/>
+      <outline text="Wirth, Niklaus" author="Niklaus Wirth" title="Compiler Construction" publisher="Addison-Wesley Pub Co" isbn="0201403536"/>
+      <outline text="Wirth, Niklaus" author="Niklaus Wirth" title="Compilerbau" publisher="Teubner" isbn="3519223384" year="1984"/>
+      <outline text="Wirth, Niklaus" author="Niklaus Wirth" title="Grundlagen und Techniken des Compilerbaus" isbn="3893199314"/>
+      <outline text="Wirth, Niklaus" author="Niklaus Wirth" title="Programming in Modula-2" publisher="Springer Verlag" isbn="0387150781" year="1989"/>
+      <outline text="Wirth, Niklaus" author="Niklaus Wirth" title="Project Oberon: The Design of an Operating System and Compiler" publisher="Addison-Wesley Pub Co" isbn="0201544288" year="1992"/>
+      <outline text="Wirth, Niklaus" author="Niklaus Wirth" title="Systematisches Programmieren: Eine Einführung" publisher="B. G. Teubner" isbn="3519123274" year="1975"/>
+      <outline text="Wirth, Niklaus" author="Laszlo Böszörmenyi et al, ed" title="The School of Niklaus Wirth" publisher="dpunkt-Verlag, Heidelberg" isbn="1558607234" year="2000"/>
+      <outline text="Wolfram, Stephen" author="Stephen Wolfram" title="Mathematica 3.0 Standard Add-on Packages" publisher="Cambridge University Press" isbn="0521585856" year="1996"/>
+      <outline text="Wolfram, Stephen" author="Stephen Wolfram" title="The MATHEMATICA Book, Version 3" publisher="Cambridge University Press" isbn="0521588898" year="1996"/>
+      <outline text="Wonneberger, Reinhard" author="Reinhard Wonneberger" title="Kompaktführer LATEX" isbn="3925118462"/>
+      <outline text="Wood, Patrick H." author="Patrick H. Wood, Stephen G. Kochan" title="Unix System Security" publisher="Hayden Books" isbn="0810462672" year="1986"/>
+      <outline text="Wooldridge, Andrew" author="Andrew Wooldridge" title="Using Javascript (Special Edition Using...)" publisher="Que" isbn="0789711389" year="1997"/>
+    </outline>
+    <outline text="X"/>
+    <outline text="Y">
+      <outline text="Yao, Paul" author="Paul Yao &amp; David Durant" title=".NET Compact Framework Programming with C#" publisher="Addison-Wesley Pub Co" isbn="0321174038" year="2004"/>
+      <outline text="Yao, Paul" author="Paul Yao &amp; David Durant" title=".NET Compact Framework Programming with Visual Basic .NET" publisher="Addison-Wesley Pub Co" isbn="0321174046" year="2004"/>
+      <outline text="Young, David H." author="David H. Young" title="The Visual Tcl Handbook" publisher="Prentice Hall" isbn="013461674X" year="1997"/>
+      <outline text="Young, Rob" author="Rob Young" title="The Midi Files" publisher="Prentice Hall PTR" isbn="0132624036" year="1996"/>
+      <outline text="Yourdon, Edward" author="Edward Yourdon" title="Decline And Fall Of The American Programmer" publisher="Prentice Hall" isbn="0132036703" year="1992"/>
+    </outline>
+    <outline text="Z">
+      <outline text="Zeigler, Bernard P." author="Bernard P. Zeigler" title="Objects and Systems: Principled Design With Implementations in C++ and Java (Undergraduate Texts in Computer Science)" publisher="Springer Verlag" isbn="0387947817" year="1997"/>
+      <outline text="Zimmermann, Christoph" author="Christoph Zimmermann" title="MACH" publisher="Springer, B." isbn="3540558063"/>
+    </outline>
+  </body>
+</opml>
